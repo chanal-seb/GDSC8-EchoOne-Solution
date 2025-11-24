@@ -1,0 +1,240 @@
+{
+  "persona_001": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_001#2025-10-22T20:44:33",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Operations And Compliance Management\n- Legal Research And Procedural Support\n- Insurance Operations And Compliance Management\n- Maritime And Port Operations Management\n- Industrial Production And Live Event Technical Operations\n- Health Safety And Environmental Compliance\n- Procurement And Supplier Management\n- Electrical And Electronics Systems Engineering\n- Community Engagement And Cultural Development\n- Tourism And Hospitality Guest Services\n- Visual Arts And Studio Production\n- Cultural Information And Records Management\n- Design Research And Innovation Management\n- Fiber And Paper Manufacturing Operations\n- Food Production Quality And Safety Management\nIf none of them or not interested by a training, just say it",
+      "User: i like the Food Production Quality And Safety Management one."
+    ]
+  },
+  "persona_002": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_002#2025-10-23T07:09:16",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m only interested in trainings related to Food Safety and Management, specifically focused on waste reduction."
+    ]
+  },
+  "persona_005": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_005#2025-10-23T07:09:21",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: The sole domain that aligns with my epistemological pursuit of exhaustive Food Industry training is, self-evidently, *Food Safety and Management*—though I must interrogate whether its curricular scope extends to waste reduction and packaging technology, or if it remains tragically siloed in sanitization protocols."
+    ]
+  },
+  "persona_006": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_006#2025-10-23T07:09:23",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Only Visual and Artistic Skills."
+    ]
+  },
+  "persona_009": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_009#2025-10-23T07:09:25",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Visual And Artistic Skills."
+    ]
+  },
+  "persona_015": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_015#2025-10-23T07:09:27",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m only interested in trainings under **Live Event Technical Management**—that’s where I’d learn lights, sound, and stage setup!"
+    ]
+  },
+  "persona_022": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_022#2025-10-23T07:09:28",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m interested in trainings for the Fiber and Paper Industry Operations domain."
+    ]
+  },
+  "persona_024": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_024#2025-10-23T07:09:31",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, definitely **Industrial Equipment Maintenance and Optimization**—it’s right up my alley with heavy machinery and all!"
+    ]
+  },
+  "persona_028": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_028#2025-10-23T07:09:33",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m really interested in trainings for **Industrial Equipment Maintenance and Optimization** because it’s all about upkeep and fixes!"
+    ]
+  },
+  "persona_034": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_034#2025-10-23T07:09:35",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, I’m absolutely thrilled about *Electrical and Electronic Systems Engineering*—that’s the one I need training in right now! I want to get my hands on all the test equipment and learn everything!"
+    ]
+  },
+  "persona_035": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_035#2025-10-23T07:09:37",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m interested in trainings related to **Procurement and Supply Chain Management**."
+    ]
+  },
+  "persona_036": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_036#2025-10-23T07:09:39",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, I’d pick **Procurement and Supply Chain Management**—it sounds like the \"adult version\" of my shopping and price-comparing hobbies!"
+    ]
+  },
+  "persona_039": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_039#2025-10-23T07:09:41",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m interested in trainings related to **Procurement and Supply Chain Management**, since it connects to my work in purchasing and my curiosity about market study."
+    ]
+  },
+  "persona_042": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_042#2025-10-23T07:09:45",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m only interested in trainings related to Hospitality and Tourism Management."
+    ]
+  },
+  "persona_044": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_044#2025-10-23T07:09:47",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, I think the only one that really catches my eye is Hospitality and Tourism Management—because I’ve always loved helping travelers and making them feel welcome!"
+    ]
+  },
+  "persona_045": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_045#2025-10-23T07:09:49",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Man, only one of these really speaks to me—Legal Practice and Advocacy, you know? The rest just ain’t my scene."
+    ]
+  },
+  "persona_046": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_046#2025-10-23T07:09:51",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I think Legal Practice and Advocacy… but maybe not the others, I’m not sure…"
+    ]
+  },
+  "persona_049": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_049#2025-10-23T07:09:53",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I am interested in trainings related to **Procurement and Supply Chain Management**, as it connects to cost analysis and budgeting."
+    ]
+  },
+  "persona_053": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_053#2025-10-23T07:09:57",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I think I'd be interested in Financial Risk Management And Compliance, but I'm not sure if it's too far from accounting and data stuff."
+    ]
+  },
+  "persona_054": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_054#2025-10-23T07:09:58",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, I’m just vibing with Hospitality and Tourism Management, you know? The rest isn’t really my scene."
+    ]
+  },
+  "persona_055": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_055#2025-10-23T07:10:01",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I only want trainings in Hospitality and Tourism Management, specifically for Hotel Reception."
+    ]
+  },
+  "persona_059": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_059#2025-10-23T07:10:05",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Honestly, none of those really catch my eye—I just wanna find trainings in Insurance, you know? That’s the only thing I’m focused on right now."
+    ]
+  },
+  "persona_092": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_092#2025-10-23T07:10:08",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Only Culture and Document Management, but if I gotta pick from that list, then Information Management and Digital Security—it’s the closest to what I need for digital archiving and data security trainings."
+    ]
+  },
+  "persona_095": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_095#2025-10-23T07:10:10",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m interested in trainings related to **Maritime and Port Operations Management**."
+    ]
+  },
+  "persona_099": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_099#2025-10-23T07:10:12",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, the one that makes my heart race is *Maritime and Port Operations Management*—it feels like the start of something thrilling!"
+    ]
+  },
+  "persona_100": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_100#2025-10-23T07:10:17",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Oh, the one that makes my heart race is anything to do with the waves and big ships—so that last one about ports and operations by the sea!"
+    ]
+  },
+  "persona_011": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_011#2025-10-23T19:49:48",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m interested in trainings related to Hospitality and Tourism Management and Visual and Artistic Skills."
+    ]
+  },
+  "persona_041": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_041#2025-10-23T19:50:00",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I think I’d only be interested in Hospitality and Tourism Management from that list."
+    ]
+  },
+  "persona_067": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_067#2025-10-23T19:50:09",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Honestly, the only one that kinda catches my eye is Financial Risk Management And Compliance, but I’m really just looking for something focused on Policy Implementation in banking or insurance."
+    ]
+  },
+  "persona_014": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_014#2025-10-26T20:20:10",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Live Event Technical Management."
+    ]
+  },
+  "persona_007": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_007#2025-10-27T12:13:52",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: The brush only listens to the whisper of colors."
+    ]
+  },
+  "persona_030": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_030#2025-10-28T19:28:53",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: Maybe Electrical and Electronic Systems Engineering... but I'm not sure if I want a training yet."
+    ]
+  },
+  "persona_086": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_086#2025-10-28T19:29:50",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: I’m not interested in any training, just understanding Industrial HSE work."
+    ]
+  },
+  "persona_062": {
+    "conversation_id": "39eba84b-46b0-4bc7-b29c-ceae08d4d602#persona_036#2025-10-23T07:09:39",
+    "interview": [
+      "Assistant: In a single sentence, which domains you are interested in to find trainings from following list:\n- Financial Risk Management And Compliance\n- Electrical And Electronic Systems Engineering\n- Food Safety And Management\n- Fiber And Paper Industry Operations\n- Industrial Equipment Maintenance And Optimization\n- Procurement And Supply Chain Management\n- Hospitality And Tourism Management\n- Legal Practice And Advocacy\n- Maritime And Port Operations Management\n- Visual And Artistic Skills\n- Information Management And Digital Security\n- Live Event Technical Management\nIf none of them or not interested by a training, just say it",
+      "User: No trainings, I just want information."
+    ]
+  }
+}

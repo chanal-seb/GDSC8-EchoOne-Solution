@@ -1,0 +1,31 @@
+{
+  "domains": {
+    "Agriculture, Forestry, Fishery": "Agricultural production, forestry, fishing, and management of natural areas.",
+    "Arts, Entertainment and Recreation": "Cultural, artistic, sports, and leisure activities.",
+    "Hospitality and Tourism": "Accommodation, food services, and tourism-related activities.",
+    "Human Health and Social Services Activities": "Healthcare, social work, and medical support services.",
+    "ICT Service Activities": "Information technology, software development, and telecommunications.",
+    "Manufacturing of Food, Beverages and Tobacco": "Industrial production of food, drinks, and tobacco products.",
+    "Manufacturing of Textile, Apparel, Leather, Footwear": "Textile, clothing, leather, and footwear industries.",
+    "Mining and Heavy Industry": "Mining, metallurgy, and heavy industrial operations.",
+    "Transportation and Storage": "Transport of goods and people, logistics, and warehousing.",
+    "Veterinary Activities": "Veterinary care and animal health services.",
+    "Wholesale and Retail Trade, Renting and Leasing": "Wholesale and retail commerce, equipment rental and leasing.",
+    "Business Administration": "Corporate management, administration, and business support services.",
+    "Chemical Industry": "Production of chemicals, pharmaceuticals, and plastics.",
+    "Construction": "Building, civil engineering, and construction trades.",
+    "Education": "Teaching, training, and educational support services.",
+    "Energy and Water Supply, Waste Management": "Energy production, water supply, and waste treatment.",
+    "Finance, Insurance and Real Estate": "Banking, insurance, asset management, and real estate services.",
+    "Manufacturing of Consumer Goods": "Production of various consumer goods such as furniture and toys.",
+    "Manufacturing of Electrical and Electronic Equipment": "Manufacturing of electrical, electronic, and IT equipment.",
+    "Manufacturing of Metal Products": "Production of metal structures and fabricated metal products.",
+    "Manufacturing of Machinery and Equipment": "Manufacturing of industrial machines and mechanical equipment.",
+    "Manufacturing of Transport Equipment": "Automotive, aerospace, railway, and shipbuilding industries.",
+    "Media": "Publishing, journalism, broadcasting, film, and multimedia.",
+    "Personal Services and Security": "Personal care, cleaning, security, and support services.",
+    "Public Administration and Defence": "Government services, defense, civil protection, and justice.",
+    "Scientific and Technical Activities": "Research, engineering, consulting, and technical services.",
+    "Wood Processing, Paper and Printing": "Woodworking, paper manufacturing, and printing industries."
+  }  
+}

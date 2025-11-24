@@ -1,0 +1,1010 @@
+{
+  "j0": {
+    "Financial Risk Management And Compliance / Tax Regulation And Compliance": "Intermediate"
+  },
+  "j1": {
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Basic",
+    "Financial Risk Management And Compliance / Risk Assessment": "Basic",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Basic"
+  },
+  "j10": {},
+  "j100": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Advanced",
+    "Legal Practice And Advocacy / Contract Drafting And Negotiation": "Advanced",
+    "Legal Practice And Advocacy / Legal Document Creation": "Intermediate",
+    "Legal Practice And Advocacy / Negotiation And Agreement Building": "Advanced"
+  },
+  "j101": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Advanced",
+    "Legal Practice And Advocacy / Legal Document Creation": "Advanced",
+    "Legal Practice And Advocacy / Legal Statute Analysis": "Advanced"
+  },
+  "j102": {
+    "Legal Practice And Advocacy / Legal Statute Analysis": "Intermediate"
+  },
+  "j103": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Intermediate",
+    "Legal Practice And Advocacy / Legal Document Creation": "Intermediate"
+  },
+  "j104": {
+    "Legal Practice And Advocacy / Contract Drafting And Negotiation": "Advanced",
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Intermediate",
+    "Information Management And Digital Security / Advanced Version Control And Document Management": "Basic"
+  },
+  "j105": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Intermediate",
+    "Legal Practice And Advocacy / Legal Document Creation": "Intermediate",
+    "Legal Practice And Advocacy / Courtroom Procedure Management": "Intermediate"
+  },
+  "j106": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Basic",
+    "Legal Practice And Advocacy / Legal Document Creation": "Basic",
+    "Legal Practice And Advocacy / Contract Drafting And Negotiation": "Basic",
+    "Legal Practice And Advocacy / Legal Ethics And Professional Conduct": "Basic"
+  },
+  "j107": {
+    "Legal Practice And Advocacy / Legal Case Analysis": "Intermediate",
+    "Legal Practice And Advocacy / Legal Client Advisory": "Basic",
+    "Legal Practice And Advocacy / Contract Drafting And Negotiation": "Basic",
+    "Legal Practice And Advocacy / Legal Statute Analysis": "Intermediate"
+  },
+  "j108": {
+    "Legal Practice And Advocacy / Contract Drafting And Negotiation": "Basic",
+    "Legal Practice And Advocacy / Legal Document Creation": "Basic"
+  },
+  "j109": {
+    "Legal Practice And Advocacy / Legal Research And Case Analysis": "Intermediate",
+    "Legal Practice And Advocacy / Legal Statute Analysis": "Basic",
+    "Legal Practice And Advocacy / Legal Document Creation": "Basic"
+  },
+  "j11": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Intermediate",
+    "Financial Risk Management And Compliance / Risk Assessment": "Basic",
+    "Financial Risk Management And Compliance / Document Management": "Basic",
+    "Financial Risk Management And Compliance / Process Optimization In Financial Services": "Basic",
+    "Financial Risk Management And Compliance / Organizational Policy Implementation": "Intermediate"
+  },
+  "j110": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Advanced",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Advanced",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Advanced",
+    "Maritime And Port Operations Management / Maritime Operations Coordination": "Advanced"
+  },
+  "j111": {
+    "Maritime And Port Operations Management / Maritime Communication": "Advanced",
+    "Maritime And Port Operations Management / International Trade Compliance And Customs Clearance": "Advanced"
+  },
+  "j112": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Advanced",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Basic"
+  },
+  "j113": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Intermediate",
+    "Maritime And Port Operations Management / International Trade Compliance And Customs Clearance": "Intermediate",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Intermediate"
+  },
+  "j114": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Basic",
+    "Maritime And Port Operations Management / International Trade Compliance And Customs Clearance": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Basic",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Basic"
+  },
+  "j115": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Basic",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Basic",
+    "Maritime And Port Operations Management / Logistics And Supply Chain Optimization": "Basic",
+    "Maritime And Port Operations Management / Cargo Operations Management": "Basic"
+  },
+  "j116": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Operations Coordination": "Intermediate"
+  },
+  "j117": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Basic",
+    "Maritime And Port Operations Management / Maritime Communication": "Basic",
+    "Maritime And Port Operations Management / Heavy Equipment Operation In Port And Waterway Facilities": "Basic",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Basic",
+    "Maritime And Port Operations Management / Logistics And Supply Chain Optimization": "Intermediate"
+  },
+  "j118": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Advanced",
+    "Maritime And Port Operations Management / Maritime Operations Coordination": "Advanced",
+    "Maritime And Port Operations Management / International Trade Compliance And Customs Clearance": "Intermediate",
+    "Maritime And Port Operations Management / Logistics And Supply Chain Optimization": "Advanced"
+  },
+  "j119": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Intermediate",
+    "Maritime And Port Operations Management / Port Terminal Operations Management": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Operations Coordination": "Intermediate"
+  },
+  "j12": {
+    "Information Management And Digital Security / Data and Document Structuring": "Basic",
+    "Information Management And Digital Security / Data Security And Information Management": "Basic"
+  },
+  "j120": {
+    "Maritime And Port Operations Management / Maritime Safety And Protection Procedures": "Intermediate",
+    "Maritime And Port Operations Management / Ship Engine Systems Operation And Maintenance": "Basic",
+    "Maritime And Port Operations Management / Maritime Emergency Medical Care": "Basic",
+    "Maritime And Port Operations Management / Marine Navigation And Seamanship": "Intermediate",
+    "Maritime And Port Operations Management / Water Safety And Emergency Response": "Intermediate"
+  },
+  "j121": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Basic",
+    "Maritime And Port Operations Management / Maritime Communication": "Basic",
+    "Maritime And Port Operations Management / Ship Engine Systems Operation And Maintenance": "Basic"
+  },
+  "j122": {
+    "Maritime And Port Operations Management / Ship Engine Systems Operation And Maintenance": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Safety And Protection Procedures": "Basic"
+  },
+  "j123": {
+    "Maritime And Port Operations Management / Cargo Handling And Logistics Coordination": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Communication": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Communication Protocols and Systems": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Emergency Medical Care": "Intermediate",
+    "Maritime And Port Operations Management / Marine Navigation And Seamanship": "Intermediate",
+    "Maritime And Port Operations Management / Water Safety And Emergency Response": "Basic"
+  },
+  "j124": {
+    "Maritime And Port Operations Management / Maritime Safety And Protection Procedures": "Basic",
+    "Maritime And Port Operations Management / Maritime Regulatory Compliance": "Basic"
+  },
+  "j125": {
+    "Maritime And Port Operations Management / Maritime Operations Coordination": "Intermediate",
+    "Maritime And Port Operations Management / Logistics And Supply Chain Optimization": "Intermediate",
+    "Maritime And Port Operations Management / Cargo Operations Management": "Intermediate",
+    "Maritime And Port Operations Management / Port Safety Management And Regulatory Compliance": "Advanced",
+    "Maritime And Port Operations Management / Maritime Regulatory Compliance": "Advanced"
+  },
+  "j126": {
+    "Maritime And Port Operations Management / Maritime Emergency Medical Care": "Intermediate",
+    "Maritime And Port Operations Management / Maritime Crisis Response": "Intermediate",
+    "Maritime And Port Operations Management / Water Safety And Emergency Response": "Intermediate"
+  },
+  "j127": {
+    "Maritime And Port Operations Management / Marine Navigation And Seamanship": "Basic",
+    "Maritime And Port Operations Management / Water Safety And Emergency Response": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic"
+  },
+  "j128": {
+    "Maritime And Port Operations Management / Maritime Regulatory Compliance": "Intermediate",
+    "Maritime And Port Operations Management / Ship Engine Systems Operation And Maintenance": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / System Performance Optimization": "Basic",
+    "Information Management And Digital Security / Data and Document Structuring": "Basic"
+  },
+  "j129": {
+    "Maritime And Port Operations Management / Maritime Safety And Protection Procedures": "Basic",
+    "Maritime And Port Operations Management / Maritime Regulatory Compliance": "Basic",
+    "Maritime And Port Operations Management / Water Safety And Emergency Response": "Basic",
+    "Maritime And Port Operations Management / Maritime Emergency Medical Care": "Basic"
+  },
+  "j13": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Intermediate",
+    "Financial Risk Management And Compliance / Risk Documentation Management": "Intermediate",
+    "Financial Risk Management And Compliance / Organizational Policy Implementation": "Basic"
+  },
+  "j130": {
+    "Industrial Equipment Maintenance And Optimization / Precision Instrument Calibration": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Industrial Power Distribution And Control Systems": "Basic"
+  },
+  "j131": {
+    "Electrical And Electronic Systems Engineering / Electrical Diagram Interpretation": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Precision Instrument Calibration": "Basic"
+  },
+  "j132": {
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Advanced",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Advanced",
+    "Electrical And Electronic Systems Engineering / Electrical Diagram Interpretation": "Advanced"
+  },
+  "j133": {
+    "Industrial Equipment Maintenance And Optimization / Heavy Equipment Operation Training": "Advanced",
+    "Industrial Equipment Maintenance And Optimization / Systematic Fault Identification And Resolution": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate"
+  },
+  "j134": {
+    "Industrial Equipment Maintenance And Optimization / Fluid Power Systems": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Metalworking And Fabrication": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Mechanical Systems Operation And Maintenance": "Basic"
+  },
+  "j135": {
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Industrial Power Distribution And Control Systems": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic"
+  },
+  "j136": {
+    "Industrial Equipment Maintenance And Optimization / Precision Instrument Calibration": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Mechanical Systems Operation And Maintenance": "Basic",
+    "Electrical And Electronic Systems Engineering / Electrical Safety Management": "Basic",
+    "Electrical And Electronic Systems Engineering / Industrial Power Distribution And Control Systems": "Basic"
+  },
+  "j137": {
+    "Industrial Equipment Maintenance And Optimization / Fluid Power Systems": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Advanced",
+    "Industrial Equipment Maintenance And Optimization / Systematic Fault Identification And Resolution": "Advanced"
+  },
+  "j138": {
+    "Industrial Equipment Maintenance And Optimization / Fluid Power Systems": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate"
+  },
+  "j139": {
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic"
+  },
+  "j14": {
+    "Financial Risk Management And Compliance / Document Management": "Basic",
+    "Financial Risk Management And Compliance / Risk Documentation Management": "Basic",
+    "Information Management And Digital Security / Data Security And Information Management": "Basic"
+  },
+  "j140": {
+    "Procurement And Supply Chain Management / Supply Chain Risk Management": "Advanced",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Advanced",
+    "Procurement And Supply Chain Management / Supplier Evaluation And Selection": "Advanced",
+    "Procurement And Supply Chain Management / Contract Management And Compliance": "Advanced"
+  },
+  "j141": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Basic",
+    "Procurement And Supply Chain Management / Advanced Negotiation And Cost Reduction": "Basic",
+    "Procurement And Supply Chain Management / Procurement Data Analysis": "Basic",
+    "Procurement And Supply Chain Management / Cost Reduction And Procurement Optimization": "Basic"
+  },
+  "j142": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Basic",
+    "Procurement And Supply Chain Management / Advanced Negotiation And Cost Reduction": "Basic",
+    "Procurement And Supply Chain Management / Contract Management And Compliance": "Intermediate",
+    "Procurement And Supply Chain Management / Cost Reduction And Procurement Optimization": "Basic",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Basic",
+    "Procurement And Supply Chain Management / Supplier Evaluation And Selection": "Basic"
+  },
+  "j143": {
+    "Procurement And Supply Chain Management / Supply Chain Risk Management": "Basic",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Basic",
+    "Procurement And Supply Chain Management / Cost Reduction And Procurement Optimization": "Basic"
+  },
+  "j144": {
+    "Procurement And Supply Chain Management / Advanced Negotiation And Cost Reduction": "Advanced",
+    "Procurement And Supply Chain Management / Contract Management And Compliance": "Intermediate",
+    "Procurement And Supply Chain Management / Enterprise Resource Planning Procurement": "Intermediate",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Advanced",
+    "Procurement And Supply Chain Management / Supplier Evaluation And Selection": "Advanced"
+  },
+  "j145": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Basic",
+    "Procurement And Supply Chain Management / Contract Management And Compliance": "Basic",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Basic"
+  },
+  "j146": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Advanced",
+    "Procurement And Supply Chain Management / Advanced Negotiation And Cost Reduction": "Intermediate",
+    "Procurement And Supply Chain Management / Procurement Data Analysis": "Intermediate",
+    "Procurement And Supply Chain Management / Contract Management And Compliance": "Intermediate",
+    "Procurement And Supply Chain Management / Cost Reduction And Procurement Optimization": "Advanced",
+    "Procurement And Supply Chain Management / Enterprise Resource Planning Procurement": "Advanced",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Intermediate",
+    "Procurement And Supply Chain Management / Supplier Evaluation And Selection": "Intermediate"
+  },
+  "j147": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Basic",
+    "Procurement And Supply Chain Management / Strategic Vendor Relationship Management": "Basic",
+    "Procurement And Supply Chain Management / Supplier Evaluation And Selection": "Basic",
+    "Procurement And Supply Chain Management / Supply Chain Risk Management": "Basic"
+  },
+  "j148": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Intermediate",
+    "Procurement And Supply Chain Management / Procurement Data Analysis": "Basic",
+    "Procurement And Supply Chain Management / Supply Chain And Distribution Management": "Basic"
+  },
+  "j149": {
+    "Procurement And Supply Chain Management / Advanced Negotiation And Cost Reduction": "Intermediate",
+    "Procurement And Supply Chain Management / Procurement Data Analysis": "Intermediate",
+    "Procurement And Supply Chain Management / Enterprise Resource Planning Procurement": "Intermediate",
+    "Procurement And Supply Chain Management / Supply Chain Risk Management": "Intermediate",
+    "Procurement And Supply Chain Management / Cost Reduction And Procurement Optimization": "Intermediate"
+  },
+  "j15": {
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Basic",
+    "Financial Risk Management And Compliance / Financial Compliance Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Document Management": "Basic",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Basic"
+  },
+  "j150": {
+    "Live Event Technical Management / Live Production Coordination": "Basic",
+    "Live Event Technical Management / Live Entertainment Technical Troubleshooting": "Basic"
+  },
+  "j151": {
+    "Live Event Technical Management / Theatrical Rigging And Stage Equipment Operation": "Basic",
+    "Live Event Technical Management / Live Event Safety Management": "Basic"
+  },
+  "j152": {
+    "Electrical And Electronic Systems Engineering / Electrical Power Systems And Grid Operations": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electrical Safety Management": "Intermediate",
+    "Live Event Technical Management / Electrical Systems Management In Live Entertainment": "Intermediate",
+    "Live Event Technical Management / Stage Lighting Installation And Management": "Intermediate"
+  },
+  "j153": {
+    "Live Event Technical Management / Stage Lighting Installation And Management": "Basic",
+    "Live Event Technical Management / Live Event Safety Management": "Basic",
+    "Live Event Technical Management / Live Entertainment Technical Troubleshooting": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Cable Routing And Organization": "Basic"
+  },
+  "j154": {
+    "Live Event Technical Management / Sound System Configuration And Operation": "Basic",
+    "Live Event Technical Management / Live Production Coordination": "Basic",
+    "Live Event Technical Management / Live Entertainment Technical Troubleshooting": "Basic"
+  },
+  "j155": {
+    "Live Event Technical Management / Stage Lighting Installation And Management": "Intermediate",
+    "Live Event Technical Management / Audiovisual Equipment Operation And Projection Techniques": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Cable Routing And Organization": "Intermediate"
+  },
+  "j156": {
+    "Live Event Technical Management / Theatrical Rigging And Stage Equipment Operation": "Intermediate",
+    "Live Event Technical Management / Sound System Configuration And Operation": "Basic",
+    "Live Event Technical Management / Electrical Systems Management In Live Entertainment": "Basic"
+  },
+  "j157": {
+    "Live Event Technical Management / Live Production Coordination": "Intermediate",
+    "Live Event Technical Management / Live Entertainment Technical Troubleshooting": "Intermediate",
+    "Live Event Technical Management / Stage Lighting Installation And Management": "Intermediate",
+    "Live Event Technical Management / Theatrical Rigging And Stage Equipment Operation": "Intermediate",
+    "Live Event Technical Management / Audiovisual Equipment Operation And Projection Techniques": "Intermediate"
+  },
+  "j158": {
+    "Live Event Technical Management / Stage Lighting Installation And Management": "Intermediate",
+    "Live Event Technical Management / Theatrical Rigging And Stage Equipment Operation": "Intermediate",
+    "Live Event Technical Management / Live Event Safety Management": "Intermediate"
+  },
+  "j159": {
+    "Electrical And Electronic Systems Engineering / Cable Routing And Organization": "Intermediate",
+    "Live Event Technical Management / Live Production Coordination": "Intermediate",
+    "Live Event Technical Management / Live Entertainment Technical Troubleshooting": "Intermediate",
+    "Live Event Technical Management / Theatrical Rigging And Stage Equipment Operation": "Intermediate",
+    "Live Event Technical Management / Live Event Safety Management": "Intermediate"
+  },
+  "j16": {
+    "Financial Risk Management And Compliance / Document Management": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Compliance Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Basic"
+  },
+  "j160": {},
+  "j161": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate"
+  },
+  "j162": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Intermediate"
+  },
+  "j163": {
+    "Hospitality And Tourism Management / Event Management": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic"
+  },
+  "j164": {},
+  "j165": {
+    "Hospitality And Tourism Management / Event Management": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Advanced"
+  },
+  "j166": {},
+  "j167": {
+    "Hospitality And Tourism Management / Event Management": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Advanced"
+  },
+  "j168": {
+    "Hospitality And Tourism Management / Event Management": "Intermediate"
+  },
+  "j169": {
+    "Legal Practice And Advocacy / Negotiation And Agreement Building": "Advanced"
+  },
+  "j17": {
+    "Information Management And Digital Security / Data Protection And Compliance": "Advanced",
+    "Financial Risk Management And Compliance / Insurance Claims Processing": "Advanced",
+    "Financial Risk Management And Compliance / Financial Data Security": "Advanced",
+    "Financial Risk Management And Compliance / Document Management": "Advanced",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Advanced"
+  },
+  "j170": {
+    "Hospitality And Tourism Management / Event Management": "Intermediate",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Hotel And Travel Booking Platform Management": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic"
+  },
+  "j171": {
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic",
+    "Hospitality And Tourism Management / Tourist Guidance And Local Knowledge": "Basic"
+  },
+  "j172": {
+    "Hospitality And Tourism Management / Digital Marketing For Tourism": "Intermediate",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Intermediate",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Intermediate",
+    "Hospitality And Tourism Management / Analytical Thinking For Tourist Services": "Intermediate",
+    "Hospitality And Tourism Management / Tourist Guidance And Local Knowledge": "Intermediate"
+  },
+  "j173": {
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Intermediate",
+    "Hospitality And Tourism Management / Destination Knowledge And Tourism Insights": "Intermediate",
+    "Hospitality And Tourism Management / Digital Marketing For Tourism": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Intermediate",
+    "Information Management And Digital Security / Digital Platform Management": "Intermediate"
+  },
+  "j174": {
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic",
+    "Hospitality And Tourism Management / Tourism Marketing Strategies": "Basic",
+    "Hospitality And Tourism Management / Analytical Thinking For Tourist Services": "Basic"
+  },
+  "j175": {
+    "Hospitality And Tourism Management / Event Management": "Intermediate",
+    "Hospitality And Tourism Management / Digital Marketing For Tourism": "Intermediate",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Intermediate",
+    "Hospitality And Tourism Management / Tourism Marketing Strategies": "Intermediate"
+  },
+  "j176": {
+    "Hospitality And Tourism Management / Tourism Marketing Strategies": "Intermediate",
+    "Hospitality And Tourism Management / Digital Marketing For Tourism": "Intermediate",
+    "Hospitality And Tourism Management / Destination Knowledge And Tourism Insights": "Basic",
+    "Information Management And Digital Security / Digital Platform Management": "Intermediate"
+  },
+  "j177": {
+    "Hospitality And Tourism Management / Hotel And Travel Booking Platform Management": "Intermediate",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Advanced",
+    "Hospitality And Tourism Management / Digital Marketing For Tourism": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Advanced"
+  },
+  "j178": {
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Hotel And Travel Booking Platform Management": "Basic",
+    "Hospitality And Tourism Management / Tourism Marketing Strategies": "Intermediate",
+    "Hospitality And Tourism Management / Analytical Thinking For Tourist Services": "Intermediate"
+  },
+  "j179": {
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Advanced"
+  },
+  "j18": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Compliance Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Data Security": "Intermediate",
+    "Financial Risk Management And Compliance / Document Management": "Intermediate",
+    "Financial Risk Management And Compliance / Insurance Claims Processing": "Intermediate",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Intermediate"
+  },
+  "j180": {
+    "Industrial Equipment Maintenance And Optimization / Systematic Fault Identification And Resolution": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Automotive Diagnostic And Troubleshooting": "Intermediate"
+  },
+  "j181": {
+    "Electrical And Electronic Systems Engineering / Electrical Diagram Interpretation": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Systematic Fault Identification And Resolution": "Advanced",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Advanced",
+    "Industrial Equipment Maintenance And Optimization / Automotive Diagnostic And Troubleshooting": "Advanced"
+  },
+  "j182": {
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Intermediate"
+  },
+  "j183": {
+    "Industrial Equipment Maintenance And Optimization / Systematic Fault Identification And Resolution": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic"
+  },
+  "j184": {
+    "Procurement And Supply Chain Management / Supply Chain And Distribution Management": "Basic"
+  },
+  "j185": {
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic",
+    "Industrial Equipment Maintenance And Optimization / System Performance Optimization": "Intermediate"
+  },
+  "j186": {
+    "Industrial Equipment Maintenance And Optimization / Mechanical Systems Operation And Maintenance": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Basic"
+  },
+  "j187": {
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Mechanical Systems Operation And Maintenance": "Basic",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Intermediate"
+  },
+  "j188": {
+    "Industrial Equipment Maintenance And Optimization / Automotive Diagnostic And Troubleshooting": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Intermediate",
+    "Industrial Equipment Maintenance And Optimization / Equipment Maintenance And Troubleshooting": "Intermediate"
+  },
+  "j189": {
+    "Industrial Equipment Maintenance And Optimization / Automotive Diagnostic And Troubleshooting": "Basic",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Intermediate"
+  },
+  "j19": {
+    "Financial Risk Management And Compliance / Fraud Detection And Prevention": "Intermediate",
+    "Financial Risk Management And Compliance / Risk Assessment": "Intermediate",
+    "Financial Risk Management And Compliance / Organizational Policy Implementation": "Intermediate"
+  },
+  "j190": {
+    "Visual And Artistic Skills / Painting Techniques": "Intermediate",
+    "Visual And Artistic Skills / Color Harmony And Palette Creation": "Basic"
+  },
+  "j191": {
+    "Visual And Artistic Skills / Artistic Movements Analysis": "Basic",
+    "Visual And Artistic Skills / Color Harmony And Palette Creation": "Basic"
+  },
+  "j192": {
+    "Visual And Artistic Skills / Artistic Drawing Techniques": "Basic",
+    "Visual And Artistic Skills / Creative Portfolio Presentation and Visual Storytelling": "Intermediate",
+    "Visual And Artistic Skills / Visual Communication": "Basic",
+    "Visual And Artistic Skills / Digital Art Creation": "Basic",
+    "Visual And Artistic Skills / Visual Arrangement": "Basic"
+  },
+  "j193": {
+    "Visual And Artistic Skills / Artistic Drawing Techniques": "Intermediate",
+    "Visual And Artistic Skills / Digital Art Creation": "Basic",
+    "Visual And Artistic Skills / Artistic Materials Expertise": "Basic",
+    "Visual And Artistic Skills / Creative Portfolio Presentation and Visual Storytelling": "Basic"
+  },
+  "j194": {
+    "Visual And Artistic Skills / Artistic Movements Analysis": "Basic",
+    "Visual And Artistic Skills / Visual Communication": "Intermediate"
+  },
+  "j195": {
+    "Visual And Artistic Skills / Painting Techniques": "Intermediate",
+    "Visual And Artistic Skills / Artistic Materials Expertise": "Basic",
+    "Visual And Artistic Skills / Visual Arrangement": "Basic"
+  },
+  "j196": {
+    "Visual And Artistic Skills / Painting Techniques": "Basic",
+    "Visual And Artistic Skills / Color Harmony And Palette Creation": "Basic",
+    "Visual And Artistic Skills / Three-Dimensional Art Creation": "Basic"
+  },
+  "j197": {
+    "Visual And Artistic Skills / Artistic Drawing Techniques": "Basic",
+    "Visual And Artistic Skills / Artistic Materials Expertise": "Basic",
+    "Visual And Artistic Skills / Three-Dimensional Art Creation": "Basic"
+  },
+  "j198": {
+    "Visual And Artistic Skills / Color Harmony And Palette Creation": "Advanced",
+    "Visual And Artistic Skills / Three-Dimensional Art Creation": "Intermediate"
+  },
+  "j199": {
+    "Visual And Artistic Skills / Artistic Materials Expertise": "Basic",
+    "Visual And Artistic Skills / Three-Dimensional Art Creation": "Basic"
+  },
+  "j2": {
+    "Financial Risk Management And Compliance / Financial Software Proficiency": "Intermediate",
+    "Financial Risk Management And Compliance / Cost Analysis And Financial Evaluation": "Advanced",
+    "Financial Risk Management And Compliance / Financial Planning And Budgeting": "Advanced",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Advanced"
+  },
+  "j20": {
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Basic",
+    "Information Management And Digital Security / Information Categorization": "Basic"
+  },
+  "j21": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / User Permission Management": "Intermediate"
+  },
+  "j22": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / Digital Collections Preservation": "Basic",
+    "Information Management And Digital Security / Information Categorization": "Basic"
+  },
+  "j23": {
+    "Information Management And Digital Security / User Permission Management": "Intermediate",
+    "Information Management And Digital Security / Digital Collections Preservation": "Basic",
+    "Information Management And Digital Security / Document Retention Management": "Basic"
+  },
+  "j24": {
+    "Information Management And Digital Security / Data Protection And Compliance": "Advanced",
+    "Information Management And Digital Security / Digital Platform Management": "Advanced",
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Advanced",
+    "Information Management And Digital Security / Document Retention Management": "Advanced"
+  },
+  "j25": {
+    "Information Management And Digital Security / Advanced Version Control And Document Management": "Intermediate",
+    "Information Management And Digital Security / Information Categorization": "Intermediate"
+  },
+  "j26": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / Digital Collections Preservation": "Intermediate",
+    "Information Management And Digital Security / Advanced Version Control And Document Management": "Intermediate",
+    "Information Management And Digital Security / Document Retention Management": "Intermediate"
+  },
+  "j27": {
+    "Information Management And Digital Security / Data Protection And Compliance": "Intermediate",
+    "Information Management And Digital Security / Advanced Version Control And Document Management": "Basic"
+  },
+  "j28": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / Data Protection And Compliance": "Intermediate",
+    "Information Management And Digital Security / Document Retention Management": "Intermediate"
+  },
+  "j29": {
+    "Information Management And Digital Security / Data Security And Information Management": "Basic",
+    "Information Management And Digital Security / User Permission Management": "Basic",
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Basic"
+  },
+  "j3": {
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Intermediate",
+    "Financial Risk Management And Compliance / Corporate Financial Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Auditing": "Basic",
+    "Financial Risk Management And Compliance / Risk Assessment": "Intermediate"
+  },
+  "j30": {},
+  "j31": {
+    "Information Management And Digital Security / Data and Document Structuring": "Basic",
+    "Information Management And Digital Security / Information Categorization": "Basic",
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Basic"
+  },
+  "j32": {
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Basic"
+  },
+  "j33": {},
+  "j34": {
+    "Information Management And Digital Security / Data and Document Structuring": "Basic",
+    "Information Management And Digital Security / Advanced Version Control And Document Management": "Basic"
+  },
+  "j35": {
+    "Information Management And Digital Security / Data and Document Structuring": "Intermediate",
+    "Information Management And Digital Security / Information Retrieval And Database Management": "Intermediate"
+  },
+  "j36": {
+    "Visual And Artistic Skills / Visual Communication": "Intermediate"
+  },
+  "j37": {},
+  "j38": {},
+  "j39": {},
+  "j4": {
+    "Financial Risk Management And Compliance / Financial Software Proficiency": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Advanced",
+    "Financial Risk Management And Compliance / Tax Regulation And Compliance": "Advanced",
+    "Financial Risk Management And Compliance / Financial Auditing": "Advanced"
+  },
+  "j40": {
+    "Electrical And Electronic Systems Engineering / Electronic Component Joining": "Basic",
+    "Electrical And Electronic Systems Engineering / Electronic Testing Instrument Operation": "Basic",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Intermediate"
+  },
+  "j41": {
+    "Electrical And Electronic Systems Engineering / Embedded Controllers Programming": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Basic"
+  },
+  "j42": {
+    "Electrical And Electronic Systems Engineering / Embedded Controllers Programming": "Advanced",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Design And Analysis": "Intermediate"
+  },
+  "j43": {
+    "Electrical And Electronic Systems Engineering / Electrical Power Systems And Grid Operations": "Advanced",
+    "Electrical And Electronic Systems Engineering / Electrical Safety Management": "Advanced"
+  },
+  "j44": {
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Design And Analysis": "Basic",
+    "Electrical And Electronic Systems Engineering / Electronic Component Joining": "Basic"
+  },
+  "j45": {
+    "Electrical And Electronic Systems Engineering / Electrical Diagram Interpretation": "Basic"
+  },
+  "j46": {
+    "Electrical And Electronic Systems Engineering / Electrical Diagram Interpretation": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electronic Component Joining": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Intermediate"
+  },
+  "j47": {
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Electrical Power Systems And Grid Operations": "Intermediate",
+    "Electrical And Electronic Systems Engineering / Intermediate Wire Installation": "Intermediate"
+  },
+  "j48": {
+    "Electrical And Electronic Systems Engineering / Embedded Controllers Programming": "Advanced",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Design And Analysis": "Advanced"
+  },
+  "j49": {
+    "Electrical And Electronic Systems Engineering / Embedded Controllers Programming": "Basic",
+    "Electrical And Electronic Systems Engineering / Electronic Circuit Diagnostics": "Basic"
+  },
+  "j5": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Advanced",
+    "Financial Risk Management And Compliance / Cost Analysis And Financial Evaluation": "Intermediate"
+  },
+  "j50": {
+    "Fiber And Paper Industry Operations / Paper Production And Quality Control": "Basic",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Basic"
+  },
+  "j51": {
+    "Fiber And Paper Industry Operations / Paper Production And Quality Control": "Intermediate",
+    "Fiber And Paper Industry Operations / Paper Product Development": "Basic"
+  },
+  "j52": {
+    "Fiber And Paper Industry Operations / Environmental Compliance Management In Fiber And Paper Industry": "Basic",
+    "Fiber And Paper Industry Operations / Paper Product Development": "Basic"
+  },
+  "j53": {
+    "Fiber And Paper Industry Operations / Paper Production And Quality Control": "Advanced",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Intermediate",
+    "Fiber And Paper Industry Operations / Paper Product Development": "Intermediate",
+    "Fiber And Paper Industry Operations / Quality Assurance In Paper And Pulp Manufacturing": "Advanced"
+  },
+  "j54": {
+    "Fiber And Paper Industry Operations / Environmental Compliance Management In Fiber And Paper Industry": "Basic",
+    "Fiber And Paper Industry Operations / Paper Production And Quality Control": "Basic"
+  },
+  "j55": {
+    "Fiber And Paper Industry Operations / Environmental Compliance Management In Fiber And Paper Industry": "Intermediate",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Intermediate",
+    "Fiber And Paper Industry Operations / Wood Fiber Processing": "Basic"
+  },
+  "j56": {
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Advanced",
+    "Fiber And Paper Industry Operations / Environmental Resource Management": "Intermediate"
+  },
+  "j57": {
+    "Fiber And Paper Industry Operations / Paper Product Development": "Basic",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Basic"
+  },
+  "j58": {
+    "Fiber And Paper Industry Operations / Environmental Compliance Management In Fiber And Paper Industry": "Basic",
+    "Fiber And Paper Industry Operations / Textile Material And Fiber Analysis": "Basic",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Basic"
+  },
+  "j59": {
+    "Fiber And Paper Industry Operations / Environmental Compliance Management In Fiber And Paper Industry": "Intermediate",
+    "Fiber And Paper Industry Operations / Workflow Optimization In Fiber And Paper Manufacturing": "Basic"
+  },
+  "j6": {
+    "Financial Risk Management And Compliance / Financial Compliance Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Corporate Financial Reporting": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Intermediate"
+  },
+  "j60": {
+    "Food Safety And Management / Food Safety And Sanitation": "Basic",
+    "Food Safety And Management / Food Product Development": "Basic"
+  },
+  "j61": {
+    "Food Safety And Management / Food Safety And Quality Assessment": "Basic",
+    "Food Safety And Management / Manufacturing Operations And Workflow Optimization": "Intermediate",
+    "Food Safety And Management / Advanced Food Packaging Design And Optimization": "Intermediate"
+  },
+  "j62": {
+    "Food Safety And Management / Food Safety Management": "Advanced",
+    "Food Safety And Management / Food Safety And Sanitation": "Intermediate",
+    "Food Safety And Management / Food Safety And Quality Assessment": "Intermediate",
+    "Food Safety And Management / Recipe Scaling And Adjustment": "Intermediate"
+  },
+  "j63": {
+    "Food Safety And Management / Food Safety And Sanitation": "Advanced",
+    "Food Safety And Management / Food Product Development": "Advanced",
+    "Food Safety And Management / Recipe Scaling And Adjustment": "Advanced",
+    "Food Safety And Management / Food Safety And Quality Assessment": "Advanced"
+  },
+  "j64": {
+    "Food Safety And Management / Food Safety And Sanitation": "Intermediate",
+    "Food Safety And Management / Manufacturing Operations And Workflow Optimization": "Basic",
+    "Food Safety And Management / Food Logistics Management": "Basic",
+    "Food Safety And Management / Safety Compliance And Regulatory Interpretation": "Intermediate"
+  },
+  "j65": {
+    "Procurement And Supply Chain Management / Market Analysis And Strategic Procurement": "Basic",
+    "Food Safety And Management / Recipe Scaling And Adjustment": "Basic"
+  },
+  "j66": {
+    "Food Safety And Management / Food Product Development": "Advanced",
+    "Food Safety And Management / Recipe Scaling And Adjustment": "Intermediate"
+  },
+  "j67": {
+    "Food Safety And Management / Food Safety And Sanitation": "Intermediate",
+    "Food Safety And Management / Manufacturing Operations And Workflow Optimization": "Basic",
+    "Food Safety And Management / Advanced Food Packaging Design And Optimization": "Basic"
+  },
+  "j68": {
+    "Food Safety And Management / Food Waste Management": "Intermediate",
+    "Food Safety And Management / Manufacturing Operations And Workflow Optimization": "Intermediate"
+  },
+  "j69": {
+    "Food Safety And Management / Food Product Development": "Intermediate",
+    "Food Safety And Management / Manufacturing Operations And Workflow Optimization": "Intermediate",
+    "Food Safety And Management / Food Waste Management": "Intermediate",
+    "Food Safety And Management / Food Safety And Quality Assessment": "Intermediate",
+    "Food Safety And Management / Recipe Scaling And Adjustment": "Intermediate"
+  },
+  "j7": {
+    "Financial Risk Management And Compliance / Financial Planning And Budgeting": "Basic",
+    "Financial Risk Management And Compliance / Cost Analysis And Financial Evaluation": "Basic",
+    "Financial Risk Management And Compliance / Risk Assessment": "Basic"
+  },
+  "j70": {
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Intermediate",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Intermediate",
+    "Hospitality And Tourism Management / Guest Client Relations": "Intermediate",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Intermediate",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Intermediate",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Multitasking In Hospitality": "Intermediate"
+  },
+  "j71": {
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Advanced",
+    "Hospitality And Tourism Management / Guest Client Relations": "Advanced",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Advanced",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Intermediate",
+    "Hospitality And Tourism Management / Intercultural Communication": "Advanced"
+  },
+  "j72": {
+    "Hospitality And Tourism Management / Guest Client Relations": "Advanced",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Advanced",
+    "Hospitality And Tourism Management / Analytical Thinking For Tourist Services": "Advanced",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Advanced"
+  },
+  "j73": {
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Basic",
+    "Hospitality And Tourism Management / Hotel Management Systems Operation": "Basic"
+  },
+  "j74": {
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Basic",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Multitasking In Hospitality": "Basic",
+    "Hospitality And Tourism Management / Hotel Management Systems Operation": "Basic"
+  },
+  "j75": {
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Basic",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Multitasking In Hospitality": "Basic",
+    "Hospitality And Tourism Management / Hotel Management Systems Operation": "Basic"
+  },
+  "j76": {
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Local Area Knowledge For Hospitality": "Basic",
+    "Hospitality And Tourism Management / Hotel Management Systems Operation": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic"
+  },
+  "j77": {
+    "Hospitality And Tourism Management / Financial Transaction Management": "Intermediate",
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Basic",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic"
+  },
+  "j78": {
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Basic",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Multitasking In Hospitality": "Basic",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Basic",
+    "Hospitality And Tourism Management / Hotel Management Systems Operation": "Basic",
+    "Hospitality And Tourism Management / Analytical Thinking For Tourist Services": "Basic"
+  },
+  "j79": {
+    "Hospitality And Tourism Management / Hospitality Service Operations": "Basic",
+    "Hospitality And Tourism Management / Hotel Reception Communication and Interaction": "Basic",
+    "Hospitality And Tourism Management / Guest Client Relations": "Basic",
+    "Hospitality And Tourism Management / Reception Management And Guest Services": "Basic",
+    "Hospitality And Tourism Management / Customer Service Techniques and Relations Management": "Basic",
+    "Hospitality And Tourism Management / Multitasking In Hospitality": "Basic",
+    "Hospitality And Tourism Management / Guest Complaint Management": "Basic",
+    "Hospitality And Tourism Management / Intercultural Communication": "Basic"
+  },
+  "j8": {
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Advanced",
+    "Financial Risk Management And Compliance / Tax Regulation And Compliance": "Intermediate",
+    "Financial Risk Management And Compliance / Risk Assessment": "Advanced",
+    "Financial Risk Management And Compliance / Financial Planning And Budgeting": "Advanced",
+    "Financial Risk Management And Compliance / Strategic Planning And Analysis": "Advanced"
+  },
+  "j80": {},
+  "j81": {
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic"
+  },
+  "j82": {
+    "Information Management And Digital Security / Data Protection And Compliance": "Intermediate"
+  },
+  "j83": {
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Intermediate"
+  },
+  "j84": {},
+  "j85": {},
+  "j86": {},
+  "j87": {},
+  "j88": {},
+  "j89": {
+    "Industrial Equipment Maintenance And Optimization / Technical Documentation Writing": "Basic"
+  },
+  "j9": {
+    "Financial Risk Management And Compliance / Cost Analysis And Financial Evaluation": "Intermediate",
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Basic",
+    "Financial Risk Management And Compliance / Corporate Financial Reporting": "Basic",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Risk Assessment": "Basic",
+    "Financial Risk Management And Compliance / Strategic Planning And Analysis": "Basic"
+  },
+  "j90": {
+    "Financial Risk Management And Compliance / Actuarial Science": "Basic",
+    "Financial Risk Management And Compliance / Insurance Claims Processing": "Basic",
+    "Financial Risk Management And Compliance / Intermediate Client Interaction And Problem Resolution": "Intermediate",
+    "Financial Risk Management And Compliance / Insurance Sales And Marketing": "Basic"
+  },
+  "j91": {
+    "Financial Risk Management And Compliance / Insurance Claims Processing": "Basic",
+    "Financial Risk Management And Compliance / Insurance Pricing Analytics": "Basic",
+    "Financial Risk Management And Compliance / Insurance Legal Agreements Interpretation": "Basic",
+    "Financial Risk Management And Compliance / Intermediate Client Interaction And Problem Resolution": "Basic"
+  },
+  "j92": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Advanced",
+    "Financial Risk Management And Compliance / Risk Assessment": "Advanced",
+    "Financial Risk Management And Compliance / Insurance Risk Assessment And Decision Making": "Advanced",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Intermediate",
+    "Legal Practice And Advocacy / Legal Statute Analysis": "Advanced"
+  },
+  "j93": {
+    "Financial Risk Management And Compliance / Insurance Claims Processing": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Intermediate",
+    "Financial Risk Management And Compliance / Risk Assessment": "Intermediate",
+    "Financial Risk Management And Compliance / Insurance Risk Assessment And Decision Making": "Intermediate"
+  },
+  "j94": {
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Fraud Detection And Prevention": "Basic",
+    "Financial Risk Management And Compliance / Risk Assessment": "Basic",
+    "Financial Risk Management And Compliance / Intermediate Client Interaction And Problem Resolution": "Basic"
+  },
+  "j95": {
+    "Financial Risk Management And Compliance / Risk Assessment": "Intermediate",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Document Management": "Basic"
+  },
+  "j96": {
+    "Financial Risk Management And Compliance / Actuarial Science": "Basic",
+    "Financial Risk Management And Compliance / Insurance Sales And Marketing": "Basic",
+    "Financial Risk Management And Compliance / Insurance Risk Assessment And Decision Making": "Intermediate",
+    "Financial Risk Management And Compliance / Intermediate Client Interaction And Problem Resolution": "Intermediate"
+  },
+  "j97": {
+    "Financial Risk Management And Compliance / Financial Data Analysis": "Intermediate",
+    "Financial Risk Management And Compliance / Fraud Detection And Prevention": "Basic",
+    "Financial Risk Management And Compliance / Regulatory Compliance Management": "Basic",
+    "Financial Risk Management And Compliance / Insurance Sales And Marketing": "Basic",
+    "Financial Risk Management And Compliance / Insurance Pricing Analytics": "Intermediate"
+  },
+  "j98": {
+    "Financial Risk Management And Compliance / Fraud Detection And Prevention": "Advanced",
+    "Financial Risk Management And Compliance / Risk Assessment": "Advanced",
+    "Financial Risk Management And Compliance / Document Management": "Intermediate",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Intermediate"
+  },
+  "j99": {
+    "Financial Risk Management And Compliance / Actuarial Science": "Advanced",
+    "Financial Risk Management And Compliance / Fraud Detection And Prevention": "Advanced",
+    "Financial Risk Management And Compliance / Risk Assessment": "Intermediate",
+    "Financial Risk Management And Compliance / Insurance Sales And Marketing": "Basic",
+    "Financial Risk Management And Compliance / Cross-Functional Coordination And Communication": "Basic",
+    "Information Management And Digital Security / Document Retention Management": "Basic"
+  }
+}

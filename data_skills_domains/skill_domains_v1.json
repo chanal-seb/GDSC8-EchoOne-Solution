@@ -1,0 +1,24 @@
+{
+  "domains": {
+    "Financial Management": "Skills related to financial planning, analysis, reporting, and compliance.",
+    "Electrical Engineering": "Skills related to electrical systems, circuit design, and electronic components.",
+    "Programming and Embedded Systems": "Skills related to programming, particularly for embedded systems.",
+    "Data Analysis and Interpretation": "Skills related to analyzing and interpreting data.",
+    "Environmental Management": "Skills related to environmental compliance, resource management, and sustainability.",
+    "Manufacturing and Production": "Skills related to manufacturing processes, quality control, and production optimization.",
+    "Food Safety and Standards": "Skills related to food safety, sanitation, and regulatory compliance.",
+    "Procurement and Supply Chain": "Skills related to procurement, supply chain management, and logistics.",
+    "Hotel and Hospitality Management": "Skills related to hotel operations, guest services, and hospitality management.",
+    "Insurance and Risk Management": "Skills related to risk assessment, insurance claims, and regulatory compliance.",
+    "Legal and Compliance": "Skills related to legal practices, compliance, and regulatory standards.",
+    "Maritime Operations": "Skills related to maritime cargo handling, vessel communication, and port operations.",
+    "Customer Service and Relations": "Skills related to customer service, client relations, and communication.",
+    "Technical Drawing and Interpretation": "Skills related to technical drawing, schematic interpretation, and equipment problem-solving.",
+    "Equipment Maintenance and Repair": "Skills related to maintaining, repairing, and troubleshooting equipment.",
+    "Negotiation and Contract Management": "Skills related to negotiation, contract management, and vendor partnerships.",
+    "Event Planning and Management": "Skills related to event planning, management, and tourism.",
+    "Art and Visual Arts": "Skills related to visual arts, creative expression, and art history.",
+    "Automotive and Mechanical Repair": "Skills related to automotive troubleshooting, equipment repair, and technical documentation.",
+    "Information Management and Security": "Skills related to data protection, information management, and digital archiving."
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "Financial Risk Management And Compliance": {
+    "Financial Software Proficiency": {
+      "tr0": "Master Financial Software Tools - Beginner Level",
+      "tr1": "Intermediate Financial Software Training",
+      "tr2": "Advanced Accounting Software Proficiency Program"
+    },
+    "Cost Analysis And Financial Evaluation": {
+      "tr10": "Intermediate Financial Cost Analysis Training",
+      "tr11": "Advanced Financial Cost Analysis Training",
+      "tr9": "Basic Financial Cost Analysis Training"
+    },
+    "Financial Data Analysis": {
+      "tr12": "Basic Data Analysis Training",
+      "tr13": "Intermediate Data Analysis and Interpretation Training"
+    },
+    "Data Analysis And Compliance": {
+      "tr14": "Advanced Analytics and Business Intelligence Training",
+      "tr370": "Intermediate Spending Analytics Training"
+    },
+    "Financial And Compliance Documentation": {
+      "tr15": "Basic Financial Reporting Training",
+      "tr54": "Basic Financial Compliance Reporting"
+    },
+    "Financial Statement Preparation And Compliance": {
+      "tr16": "Intermediate Corporate Financial Reporting",
+      "tr17": "Advanced Corporate Financial Reporting",
+      "tr56": "Advanced Financial Compliance Reporting"
+    },
+    "Advanced Formula Adjustment": {
+      "tr173": "Advanced Recipe Scaling Training"
+    },
+    "Regulatory Compliance Management": {
+      "tr19": "Intermediate Compliance and Risk Management Training",
+      "tr234": "Basic Regulatory Compliance Training",
+      "tr235": "Intermediate Regulatory Compliance Training",
+      "tr20": "Advanced Compliance Management Training",
+      "tr55": "Intermediate Compliance Reporting Course"
+    },
+    "Actuarial Science": {
+      "tr210": "Basic Actuarial Principles Training",
+      "tr211": "Risk Assessment and Statistical Analysis in Insurance",
+      "tr212": "Advanced Risk Assessment and Statistical Modeling for Insurance"
+    },
+    "Insurance Claims Processing": {
+      "tr213": "Basic Insurance Claims Handling Course"
+    },
+    "Insurance Claim Evaluation And Resolution": {
+      "tr214": "Intermediate Insurance Claims Processing",
+      "tr215": "Advanced Insurance Claims Processing"
+    },
+    "Insurance Legal Agreements Interpretation": {
+      "tr216": "Insurance Contract Law Fundamentals",
+      "tr217": "Insurance Contract Law",
+      "tr218": "Advanced Insurance Contract Law Training"
+    },
+    "Business Risk Management": {
+      "tr22": "Intermediate Risk Assessment Training",
+      "tr23": "Advanced Business Risk Evaluation Training"
+    },
+    "Intermediate Client Interaction And Problem Resolution": {
+      "tr220": "Intermediate Client Support Training",
+      "tr221": "Advanced Client Relations Training"
+    },
+    "Insurance Risk And Compliance Analysis": {
+      "tr222": "Basic Insurance Pricing Analytics Training",
+      "tr233": "Advanced Risk Assessment and Coverage Decision Making",
+      "tr236": "Advanced Insurance Compliance and Risk Management"
+    },
+    "Advanced Insurance Pricing Analytics": {
+      "tr223": "Pricing Analytics for Insurance Professionals",
+      "tr224": "Advanced Pricing Analytics Training"
+    },
+    "Fraud Detection And Prevention": {
+      "tr225": "Basic Insurance Fraud Detection Training",
+      "tr226": "Intermediate Insurance Fraud Detection Training",
+      "tr227": "Advanced Financial Crime Detection Training"
+    },
+    "Risk Assessment": {
+      "tr228": "Risk Assessment in Insurance",
+      "tr229": "Risk Assessment Expert",
+      "tr230": "Advanced Risk Evaluation Training"
+    },
+    "Insurance Risk Assessment And Decision Making": {
+      "tr231": "Risk Assessment and Insurance Decision-Making Training",
+      "tr232": "Intermediate Risk Assessment and Insurance Decision Making"
+    },
+    "Insurance Sales And Marketing": {
+      "tr237": "Basic Sales and Marketing for Insurance Products",
+      "tr238": "Advance Your Insurance Sales and Marketing Skills!",
+      "tr239": "Advanced Insurance Sales and Marketing Program"
+    },
+    "Strategic Planning And Analysis": {
+      "tr24": "Basic Strategic Planning Course",
+      "tr25": "Intermediate Business Strategy Development"
+    },
+    "Tax Regulation And Compliance": {
+      "tr27": "Basic Tax Compliance Training",
+      "tr28": "Intermediate Tax Compliance Training",
+      "tr29": "Advanced Tax Compliance Training"
+    },
+    "Financial Auditing": {
+      "tr3": "Basic Audit Fundamentals Course",
+      "tr4": "Intermediate Financial Audit Training",
+      "tr5": "Advanced Audit Methodology and Risk Assessment Program"
+    },
+    "Customer Information Systems Management": {
+      "tr30": "Basic Customer Data Management Training",
+      "tr31": "Intermediate Customer Data Management Training",
+      "tr32": "Advanced Customer Data Management Program"
+    },
+    "Regulatory Supervision": {
+      "tr33": "Basic Regulatory Supervision Training",
+      "tr34": "Intermediate Regulatory Oversight Training",
+      "tr35": "Advanced Regulatory Oversight and Risk Management"
+    },
+    "Financial Data Security": {
+      "tr36": "Basic Data Protection and Security Protocols Training",
+      "tr37": "Intermediate Information Security Protocols",
+      "tr38": "Advanced Data Security Protocols"
+    },
+    "Market Analysis And Research Methodologies": {
+      "tr375": "Basic Market Research Training"
+    },
+    "Document Management": {
+      "tr40": "Intermediate Document Management Training",
+      "tr41": "Advanced Documentation Management Training"
+    },
+    "Foundational Troubleshooting": {
+      "tr402": "Basic Problem Diagnosis Training"
+    },
+    "Financial Crime Prevention And Detection": {
+      "tr42": "Basic Financial Crime Prevention Support Training",
+      "tr43": "Intermediate Anti-Fraud Support Training",
+      "tr44": "Advanced Financial Crime Prevention Training"
+    },
+    "Cross-Functional Coordination And Communication": {
+      "tr45": "Building Bridges Between Departments - Basic Training",
+      "tr46": "Cross-Department Communication Training - Intermediate Level",
+      "tr47": "Advanced Cross-Department Communication and Coordination"
+    },
+    "Process Optimization In Financial Services": {
+      "tr48": "Basic Process Optimization Training",
+      "tr49": "Intermediate Operational Efficiency Training",
+      "tr50": "Advanced Process Optimization Training"
+    },
+    "Organizational Policy Implementation": {
+      "tr51": "Master Policy Implementation Fundamentals",
+      "tr52": "Intermediate Policy Implementation Training",
+      "tr53": "Advanced Policy Implementation Training"
+    },
+    "Risk Documentation Management": {
+      "tr57": "Basic Documentation for Risk Management",
+      "tr58": "Intermediate Risk Documentation Training",
+      "tr59": "Advanced Risk Documentation Training"
+    },
+    "Financial Planning And Budgeting": {
+      "tr6": "Financial Planning and Budget Management",
+      "tr7": "Financial Planning and Analysis",
+      "tr8": "Advanced Financial Planning and Budget Management"
+    },
+    "Cybersecurity Management": {
+      "tr71": "Advanced Information Protection Training"
+    }
+  },
+  "Electrical And Electronic Systems Engineering": {
+    "Embedded Controllers Programming": {
+      "tr100": "Intermediate Programming for Embedded Systems",
+      "tr101": "Advanced Programming for Embedded Systems",
+      "tr99": "Basic Programming for Embedded Systems"
+    },
+    "Electrical Power Distribution And Grid Operations": {
+      "tr102": "Basic Electrical Power Systems Course",
+      "tr104": "Advanced Electrical Grid Systems",
+      "tr98": "Advanced Circuit Installation and Power Systems"
+    },
+    "Electrical Power Systems": {
+      "tr103": "Master Electrical Power Systems at Intermediate Level!",
+      "tr96": "Basic Electrical Wiring Course"
+    },
+    "Electrical Safety Management": {
+      "tr105": "Basic Electrical Safety Procedures Training",
+      "tr106": "Intermediate Electrical Safety Procedures Training",
+      "tr107": "Advanced Electrical Safety Training"
+    },
+    "Electrical Diagram Interpretation": {
+      "tr108": "Basic Circuit Diagram Interpretation",
+      "tr109": "Intermediate Circuit Diagram Interpretation",
+      "tr110": "Advanced Circuit Diagram Interpretation"
+    },
+    "Electronic Component Joining": {
+      "tr111": "Master Basic Electronic Component Joining",
+      "tr112": "Intermediate Electronic Component Assembly",
+      "tr113": "Advanced Soldering Techniques"
+    },
+    "Electronic Testing Instrument Operation": {
+      "tr114": "Master Electronic Testing Equipment - Beginner Course",
+      "tr115": "Intermediate Electronic Testing Equipment Mastery",
+      "tr116": "Advanced Electronic Testing Equipment Mastery"
+    },
+    "Electronic Circuit Diagnostics": {
+      "tr117": "Basic Electronic Systems Diagnostics Training",
+      "tr118": "Intermediate Electronic Systems Diagnostics Training",
+      "tr119": "Advanced Electronic Systems Troubleshooting Course"
+    },
+    "Technical Documentation Interpretation And Creation": {
+      "tr332": "Advanced Technical Drawing and Schematic Interpretation",
+      "tr484": "Intermediate Technical Documentation Writing"
+    },
+    "Industrial Power Distribution And Control Systems": {
+      "tr336": "Basic Industrial Power Systems Training",
+      "tr337": "Intermediate-Level Industrial Electrical Systems Training",
+      "tr338": "Advanced Industrial Power Systems Training"
+    },
+    "Advanced Electrical And Electronic Systems Engineering": {
+      "tr395": "Advanced Electrical Systems Training",
+      "tr92": "Advanced Electronic Circuit Design"
+    },
+    "Cable Routing And Organization": {
+      "tr396": "Master the Basics of Organizing Cables and Wiring Systems",
+      "tr397": "Intermediate Wire Organization Training",
+      "tr398": "Advanced Wiring and Organization"
+    },
+    "Electronic Circuit Design And Analysis": {
+      "tr486": "Basic Circuit Design and Analysis Training",
+      "tr90": "Basic Electronic Circuit Design Course",
+      "tr91": "Intermediate Electronic Circuit Development"
+    },
+    "Electronic Circuit Analysis And Troubleshooting": {
+      "tr487": "Intermediate Electronic Circuit Systems Training",
+      "tr488": "Advanced Electrical Circuit Systems",
+      "tr97": "Intermediate Wire Installation and Circuit Design"
+    },
+    "Electronic Component Analysis And Selection": {
+      "tr93": "Basic Electronic Components Training",
+      "tr94": "Intermediate Electronic Component Training",
+      "tr95": "Advanced Electronic Components Mastery"
+    }
+  },
+  "Food Safety And Management": {
+    "Chemical Safety And Management In Industrial Environments": {
+      "tr120": "Basic Chemical Handling Training",
+      "tr121": "Intermediate Chemical Handling Training",
+      "tr122": "Advanced Training in Safe Chemical Management"
+    },
+    "Sustainable Waste Management": {
+      "tr149": "Advanced Environmental Resource Management"
+    },
+    "Food Safety Management": {
+      "tr150": "Food Safety Fundamentals",
+      "tr151": "Intermediate Food Safety Standards Training",
+      "tr152": "Advanced Food Safety Standards Training"
+    },
+    "Food Safety And Sanitation": {
+      "tr153": "Basic Food Safety and Sanitation Training",
+      "tr154": "Intermediate Food Safety Standards Training",
+      "tr155": "Advanced Food Safety and Sanitation Standards"
+    },
+    "Food Supply Chain Sourcing": {
+      "tr156": "Master the Basics of Food Industry Procurement",
+      "tr174": "Master Food Industry Logistics from the Ground Up"
+    },
+    "Advanced Food Packaging Design And Optimization": {
+      "tr159": "Master Food Packaging Technology from Scratch",
+      "tr160": "Packaging Technology - Intermediate Level",
+      "tr161": "Advanced Food Packaging Solutions"
+    },
+    "Food Product Development": {
+      "tr162": "Basic Food Innovation and Development Course",
+      "tr163": "Intermediate Food Innovation",
+      "tr164": "Advanced Food Innovation and Development Program"
+    },
+    "Manufacturing Operations And Workflow Optimization": {
+      "tr165": "Basic Production Line Management Training",
+      "tr166": "Intermediate Manufacturing Operations Training",
+      "tr167": "Advanced Manufacturing Line Operations"
+    },
+    "Food Safety And Quality Assessment": {
+      "tr168": "Basic Food Safety and Standards Training",
+      "tr169": "Intermediate Food Safety and Standards Training",
+      "tr170": "Advanced Food Safety Assessment Training"
+    },
+    "Recipe Scaling And Adjustment": {
+      "tr171": "Basic Recipe Scaling Training",
+      "tr172": "Intermediate Recipe Scaling Training"
+    },
+    "Food Logistics Management": {
+      "tr175": "Intermediate Supply Chain Management in Food Industry",
+      "tr176": "Advanced Food Industry Supply Chain Management"
+    },
+    "Food Waste Management": {
+      "tr177": "Basic Food Waste Reduction Training",
+      "tr178": "Intermediate Food Waste Management Training",
+      "tr179": "Advanced Food Waste Management Training"
+    },
+    "Safety Compliance And Regulatory Interpretation": {
+      "tr354": "Basic Workplace Safety Regulations Training",
+      "tr355": "Intermediate Workplace Safety Regulations",
+      "tr356": "Advanced Safety Laws Training"
+    }
+  },
+  "Fiber And Paper Industry Operations": {
+    "Environmental Compliance Management In Fiber And Paper Industry": {
+      "tr123": "Environmental Compliance Training - Fundamentals",
+      "tr124": "Environmental Compliance Training - Intermediate Level",
+      "tr125": "Advanced Environmental Regulations Training"
+    },
+    "Material Science Analysis": {
+      "tr129": "Basic Understanding of Material Science and Analysis"
+    },
+    "Textile Material And Fiber Analysis": {
+      "tr130": "Intermediate Fiber Science Training",
+      "tr131": "Advanced Fiber Science Training"
+    },
+    "Paper Production And Quality Control": {
+      "tr132": "Manufacturing Processes in Paper Industry - Fundamentals",
+      "tr133": "Intermediate Manufacturing Processes in Pulp and Paper Industry",
+      "tr134": "Advanced Manufacturing Techniques for Industrial Paper Production"
+    },
+    "Workflow Optimization In Fiber And Paper Manufacturing": {
+      "tr136": "Intermediate Process Optimization Training",
+      "tr137": "Advanced Manufacturing Efficiency Enhancement"
+    },
+    "Paper Product Development": {
+      "tr138": "Basic Paper Product Development Course",
+      "tr139": "Intermediate Paper Product Development Training",
+      "tr140": "Advanced Paper Product Development Training"
+    },
+    "Wood Fiber Processing": {
+      "tr141": "Basic Paper Manufacturing Processes Training",
+      "tr142": "Intermediate Paper Manufacturing Processes",
+      "tr143": "Advanced Pulping Processes Training"
+    },
+    "Quality Assurance In Paper And Pulp Manufacturing": {
+      "tr144": "Basic Paper and Pulp Quality Control Training",
+      "tr145": "Intermediate-Level Paper and Pulp Quality Assurance Program",
+      "tr146": "Advanced Paper and Pulp Quality Management"
+    },
+    "Environmental Resource Management": {
+      "tr147": "Basic Training in Environmental Resource Management",
+      "tr148": "Intermediate Environmental Resource Management in Paper Industry"
+    },
+    "Regulatory Compliance": {
+      "tr18": "Basic Compliance and Regulatory Standards",
+      "tr276": "Basic International Trade Compliance Training"
+    },
+    "Operational Risk And Port Management": {
+      "tr21": "Avaliação de Riscos Empresariais",
+      "tr274": "Comunicação com Embarcações",
+      "tr283": "Coordenação de Operações Portuárias - Nível Intermediário"
+    },
+    "Technical Documentation": {
+      "tr485": "Advanced Technical Documentation Writing"
+    }
+  },
+  "Industrial Equipment Maintenance And Optimization": {
+    "Industrial Machinery Operation And Maintenance": {
+      "tr126": "Basic Equipment Handling Training",
+      "tr346": "Intermediate Heavy Equipment Operation Training",
+      "tr347": "Advanced Heavy Machinery Operation Training"
+    },
+    "Advanced Industrial Equipment Management In Fiber And Paper Production": {
+      "tr127": "Intermediate Machinery Operation Training",
+      "tr128": "Advanced Machinery Operations Training"
+    },
+    "Manufacturing Process Optimization": {
+      "tr135": "Basic Training in Streamlining Industrial Operations"
+    },
+    "Industrial Equipment Operation": {
+      "tr279": "Basic Heavy Machinery Operation Training",
+      "tr345": "Basic Heavy Equipment Operation Training"
+    },
+    "Technical Drawing Interpretation": {
+      "tr330": "Basic Technical Drawing and Schematic Interpretation"
+    },
+    "Systematic Fault Identification And Resolution": {
+      "tr333": "Basic Equipment Problem-Solving Training",
+      "tr334": "Intermediate Equipment Problem-Solving Training",
+      "tr335": "Advanced Equipment Problem-Solving Training"
+    },
+    "Industrial Equipment Calibration": {
+      "tr339": "Basic Equipment Calibration Training"
+    },
+    "Precision Instrument Calibration": {
+      "tr340": "Intermediate Precision Instrument Calibration Training",
+      "tr341": "Advanced Precision Instrument Calibration"
+    },
+    "Fluid Power Systems": {
+      "tr342": "Master Hydraulic and Pneumatic Systems from Scratch",
+      "tr343": "Intermediate Hydraulic and Pneumatic Systems Training",
+      "tr344": "Advanced Hydraulic and Pneumatic Systems"
+    },
+    "Metalworking And Fabrication": {
+      "tr348": "Learn Metal Working and Welding Fundamentals",
+      "tr349": "Intermediate Metal Fabrication Training",
+      "tr350": "Advanced Metalworking and Fabrication Techniques"
+    },
+    "Equipment Maintenance And Troubleshooting": {
+      "tr351": "Master Equipment Maintenance Fundamentals",
+      "tr358": "Intermediate Equipment Maintenance and Repair Training",
+      "tr359": "Advanced Equipment Maintenance and Repair Training"
+    },
+    "Advanced Equipment Maintenance": {
+      "tr352": "Intermediate Equipment Maintenance Training",
+      "tr353": "Advanced Equipment Maintenance Strategy Training",
+      "tr357": "Equipment Maintenance and Repair Fundamentals"
+    },
+    "Mechanical Parts Replacement": {
+      "tr480": "Master Equipment Part Replacement - Beginner Level",
+      "tr481": "Intermediate Vehicle Parts Replacement Training"
+    },
+    "Mechanical Systems Operation And Maintenance": {
+      "tr482": "Advanced Equipment Repair Training",
+      "tr495": "Basic Equipment Handling Course",
+      "tr496": "Advanced Equipment Proficiency Training"
+    },
+    "Technical Documentation Writing": {
+      "tr483": "Learn to Write Clear Technical Documentation"
+    },
+    "Automotive Diagnostic And Troubleshooting": {
+      "tr489": "Basic Automotive Troubleshooting Course",
+      "tr490": "Intermediate Automotive Troubleshooting Program",
+      "tr491": "Advanced Mechanical Diagnosis Training"
+    },
+    "System Performance Optimization": {
+      "tr492": "Basic Software Performance Testing Course",
+      "tr493": "Intermediate System Performance Analysis Training",
+      "tr494": "Advanced System Optimization Training"
+    }
+  },
+  "Procurement And Supply Chain Management": {
+    "Strategic Procurement In Food Industry": {
+      "tr157": "Intermediate Procurement Training",
+      "tr158": "Advanced Procurement Management"
+    },
+    "Strategic Organizational Planning": {
+      "tr26": "Advanced Corporate Strategy Development"
+    },
+    "Logistics And Supply Chain Management": {
+      "tr294": "Basic Logistics and Procurement Planning",
+      "tr374": "Advanced Supply Chain Management"
+    },
+    "Advanced Negotiation And Cost Reduction": {
+      "tr361": "Intermediate Negotiation Skills Training",
+      "tr368": "Advanced Expense Optimization Techniques"
+    },
+    "Strategic Negotiation And Supplier Management": {
+      "tr362": "Advanced Negotiation Skills Training"
+    },
+    "Contract Management And Compliance": {
+      "tr363": "Basic Contract Management Training",
+      "tr364": "Intermediate Contract Management Training"
+    },
+    "Commercial Agreement Expertise": {
+      "tr365": "Advanced Contract Management Training"
+    },
+    "Cost Reduction And Procurement Optimization": {
+      "tr366": "Cost Reduction Strategies Training",
+      "tr367": "Advanced Cost Reduction Strategies Training"
+    },
+    "Procurement Data Analysis": {
+      "tr369": "Foundational Spending Analytics Training",
+      "tr371": "Advanced Spend Analytics Training"
+    },
+    "Supply Chain And Distribution Management": {
+      "tr372": "Supply Chain Fundamentals - Basic Level",
+      "tr373": "Intermediate Supply Chain Management Training"
+    },
+    "Market Analysis And Strategic Procurement": {
+      "tr376": "Intermediate Market Research Training",
+      "tr377": "Advanced Market Research Training"
+    },
+    "Enterprise Resource Planning Procurement": {
+      "tr378": "ERP Systems for Purchasing Management - Basic Level",
+      "tr379": "Intermediate ERP Procurement Systems Training",
+      "tr380": "Advanced Procurement Software (ERP) Training"
+    },
+    "Supply Chain Risk Management": {
+      "tr381": "Supply Chain Risk Management",
+      "tr382": "Intermediate Supply Chain Risk Management",
+      "tr383": "Advanced Supply Chain Risk Management Training"
+    },
+    "Strategic Vendor Relationship Management": {
+      "tr384": "Master Strategic Vendor Partnerships - Beginner Level",
+      "tr385": "Intermediate Vendor Partnership Management",
+      "tr386": "Advanced Supplier Relationship Management"
+    },
+    "Supplier Evaluation And Selection": {
+      "tr387": "Supplier Selection Fundamentals",
+      "tr388": "Intermediate Supplier Selection Training",
+      "tr389": "Advanced Supplier Selection Training"
+    }
+  },
+  "Hospitality And Tourism Management": {
+    "Financial Transaction Management": {
+      "tr180": "Basic Money Management for Hotel Reception",
+      "tr181": "Intermediate Money Management at Hotel Reception",
+      "tr182": "Advanced Money Management in Hotel Reception"
+    },
+    "Hospitality Service Operations": {
+      "tr183": "Hotel Guest Registration and Departure Procedures - Basic Level",
+      "tr184": "Hotel Guest Services Training",
+      "tr195": "Guest Relations Training"
+    },
+    "Complex Guest Handling": {
+      "tr185": "Advanced Guest Arrival and Departure Management",
+      "tr188": "Advanced Professional Interaction Skills for Hotel Reception"
+    },
+    "Guest Interaction Skills": {
+      "tr186": "Basic Hotel Reception Communication Training",
+      "tr187": "Intermediate Speaking and Writing Skills for Hotel Reception",
+      "tr189": "Hotel Reception Basics"
+    },
+    "Guest Interaction And Conflict Resolution": {
+      "tr190": "Intermediate Client Relations Training",
+      "tr191": "Advanced Client Relations Training",
+      "tr206": "Advanced Customer Issue Resolution for Hotel Reception"
+    },
+    "Reception Management And Guest Services": {
+      "tr192": "Master Hotel Reception Operations from Scratch",
+      "tr193": "Intermediate Hotel Reception Operations Training",
+      "tr194": "Advanced Hotel Reception Operations"
+    },
+    "Advanced Customer Service Techniques": {
+      "tr196": "Intermediate Customer Service Excellence Training",
+      "tr197": "Advanced Customer Service Excellence for Hotel Reception",
+      "tr448": "Exceptional Customer Service Skills - Intermediate Level"
+    },
+    "Local Area Knowledge For Hospitality": {
+      "tr198": "Master Your Neighborhood: Essential Area Knowledge for Hotel Staff",
+      "tr200": "Advanced Regional Expertise for Hotel Professionals"
+    },
+    "Regional Attraction Expertise": {
+      "tr199": "Conhecimento Avançado da Região Local para Recepcionistas"
+    },
+    "Guest Relations Management": {
+      "tr201": "Hotel Reception",
+      "tr204": "Hotel Reception",
+      "tr447": "Tourist Reception and Promotion"
+    },
+    "Multitasking In Hospitality": {
+      "tr202": "Intermediate Juggling Multiple Tasks Training",
+      "tr203": "Advanced Juggling Multiple Tasks Training"
+    },
+    "Guest Complaint Management": {
+      "tr205": "Master Guest Issue Resolution at the Front Desk!"
+    },
+    "Hotel Management Systems Operation": {
+      "tr207": "Hotel Property Management Systems - Basic Training",
+      "tr209": "Advanced Property Management Systems Training"
+    },
+    "Intermediate Hotel Booking Software Management": {
+      "tr208": "Hotel Property Management Systems Training - Intermediate Level"
+    },
+    "Intercultural Communication": {
+      "tr420": "Basic Cross-Cultural Understanding Training",
+      "tr439": "Intermediate Cross-Cultural Communication Training"
+    },
+    "Cultural Competency For Tourism": {
+      "tr421": "Desenvolva sua Sensibilidade Intercultural no Turismo"
+    },
+    "Cross-Cultural Communication": {
+      "tr422": "Advanced Cross-Cultural Communication for Tourism Professionals",
+      "tr438": "Cross-Cultural Communication Skills for Tourism Professionals",
+      "tr440": "Advanced Cross-Cultural Communication for Tourism Professionals"
+    },
+    "Destination Knowledge And Tourism Insights": {
+      "tr423": "Basic Tourist Destination Knowledge Course",
+      "tr424": "Intermediate Tourism Area Knowledge",
+      "tr425": "Advanced Tourist Destination Expertise"
+    },
+    "Digital Marketing For Tourism": {
+      "tr426": "Building Your Online Brand in Tourism - Basic Course",
+      "tr427": "Intermediate Online Brand Management Training",
+      "tr428": "Advanced Online Brand and Social Media Strategy"
+    },
+    "Event Management": {
+      "tr429": "Basic Event Planning and Management",
+      "tr430": "Intermediate Event Planning and Management"
+    },
+    "Advanced Event Planning And Execution": {
+      "tr431": "Advanced Event Planning and Management"
+    },
+    "Tourist Guidance And Local Knowledge": {
+      "tr432": "Basic Tourist Area Navigation and Information Services",
+      "tr433": "Intermediate Regional Tourism Guidance Training"
+    },
+    "Tourism Management And Guided Tour Expertise": {
+      "tr434": "Advanced Regional Tourism Guidance Training"
+    },
+    "Tourism Marketing Strategies": {
+      "tr435": "Basic Tourism Marketing and Promotion Training",
+      "tr436": "Intermediate Tourism Marketing and Promotion Training",
+      "tr437": "Advanced Tourism Promotion and Digital Strategies"
+    },
+    "Analytical Thinking And Compliance": {
+      "tr441": "Basic Problem-Solving Training"
+    },
+    "Analytical Thinking For Tourist Services": {
+      "tr442": "Intermediate Analytical Thinking Development",
+      "tr443": "Advanced Critical Thinking and Solution Development"
+    },
+    "Hotel And Travel Booking Platform Management": {
+      "tr444": "Basic Hotel and Travel Booking Systems Training",
+      "tr445": "Intermediate Hotel and Travel Booking Systems Training",
+      "tr446": "Advanced Hotel and Travel Booking Systems"
+    },
+    "Advanced Client Experience Management": {
+      "tr449": "Advanced Excellence in Client Relations"
+    }
+  },
+  "Legal Practice And Advocacy": {
+    "Client Interaction Techniques": {
+      "tr219": "Client Support Fundamentals"
+    },
+    "Legal Case Analysis": {
+      "tr240": "Foundational Legal Case Analysis",
+      "tr241": "Intermediate Legal Case Analysis Training",
+      "tr242": "Advanced Legal Case Analysis Training"
+    },
+    "Legal Client Advisory": {
+      "tr243": "Basic Legal Counseling Skills Training",
+      "tr244": "Intermediate Client Counseling Course",
+      "tr245": "Advanced Legal Counseling and Advisory Skills"
+    },
+    "Legal Fundamentals": {
+      "tr246": "Basic Legal Document Preparation Course",
+      "tr258": "Basic Legal Dispute Resolution Training"
+    },
+    "Contract Drafting And Negotiation": {
+      "tr247": "Intermediate Legal Agreement Writing Training",
+      "tr248": "Advanced Legal Agreement Writing"
+    },
+    "Legal Ethics And Professional Conduct": {
+      "tr249": "Professional Ethics in Legal Practice",
+      "tr250": "Intermediate Professional Ethics Training",
+      "tr251": "Master Advanced Professional Ethics in Legal Practice"
+    },
+    "Legal Research And Case Analysis": {
+      "tr252": "Basic Legal Research Training",
+      "tr253": "Intermediate Legal Research Training",
+      "tr254": "Advanced Legal Research Training"
+    },
+    "Legal Document Creation": {
+      "tr255": "Professional Legal Document Writing",
+      "tr256": "Intermediate Legal Document Drafting",
+      "tr257": "Advanced Professional Legal Document Drafting"
+    },
+    "Courtroom Procedure Management": {
+      "tr259": "Intermediate Court Procedures Training",
+      "tr260": "Advanced Legal Dispute Management Training"
+    },
+    "Negotiation And Agreement Building": {
+      "tr261": "Basic Contract and Deal-Making Skills",
+      "tr262": "Intermediate Deal-Making and Conflict Resolution Training",
+      "tr360": "Negotiation Fundamentals Training"
+    },
+    "Advanced Legal Negotiation": {
+      "tr263": "Advanced Deal-Making and Bargaining Strategies"
+    },
+    "Persuasive Speaking In Legal Settings": {
+      "tr264": "Basic Courtroom Presentation Skills",
+      "tr265": "Intermediate Courtroom Presentation Skills",
+      "tr266": "Advanced Courtroom Presentation Skills"
+    },
+    "Legal Statute Analysis": {
+      "tr267": "Master Legal Text Analysis and Court Decision Understanding",
+      "tr268": "Intermediate Legal Text Analysis and Legislative Interpretation"
+    },
+    "Legislative Analysis": {
+      "tr269": "Advanced Legal Interpretation Course"
+    }
+  },
+  "Maritime And Port Operations Management": {
+    "Cargo Handling And Logistics Coordination": {
+      "tr270": "Basic Maritime Cargo Handling Operations",
+      "tr271": "Intermediate Maritime Cargo Handling Operations",
+      "tr272": "Advanced Port Cargo Handling Training"
+    },
+    "Maritime Communication Protocols": {
+      "tr273": "Basic Maritime Vessel Communication Training",
+      "tr303": "Basic Maritime Communication Systems Training",
+      "tr305": "Advanced Maritime Radio and Digital Communication Training"
+    },
+    "Maritime And River Transport Coordination": {
+      "tr275": "Advanced Ship-to-Shore Communication Training",
+      "tr282": "Master Port Operations Coordination from the Ground Up"
+    },
+    "International Trade Compliance And Customs Clearance": {
+      "tr277": "International Trade Procedures Training",
+      "tr278": "Advanced International Trade Compliance Training"
+    },
+    "Heavy Equipment Operation In Port And Waterway Facilities": {
+      "tr280": "Intermediate Heavy Machinery Operation Training",
+      "tr281": "Advanced Heavy Machinery Operation Training"
+    },
+    "Port Terminal Operations Management": {
+      "tr284": "Advanced Maritime Terminal Operations Management",
+      "tr297": "Basic Terminal Management Course",
+      "tr298": "Intermediate Port and Terminal Operations"
+    },
+    "Port Safety Compliance": {
+      "tr285": "Port Safety Regulations Training"
+    },
+    "Port Safety Management And Regulatory Compliance": {
+      "tr286": "Port Safety Regulations Training",
+      "tr287": "Advanced Port Safety Regulations Training"
+    },
+    "Maritime Operations Coordination": {
+      "tr288": "Basic Operations Coordination and Resource Management",
+      "tr290": "Advanced Scheduling and Dispatch Training",
+      "tr324": "Basic Ship Operations Training"
+    },
+    "Vessel Scheduling And Resource Allocation": {
+      "tr289": "Intermediate Operations Planning and Fleet Coordination"
+    },
+    "Maritime Safety And Protection Procedures": {
+      "tr291": "Basic Safety and Protection Procedures Training",
+      "tr292": "Intermediate Safety and Protection Procedures Training",
+      "tr293": "Advanced Maritime Safety and Protection Training"
+    },
+    "Logistics And Supply Chain Optimization": {
+      "tr295": "Intermediate Logistics and Demand Planning Training",
+      "tr296": "Advanced Supply Chain Planning"
+    },
+    "Logistics Operations Management": {
+      "tr299": "Advanced Port and Terminal Operations Training"
+    },
+    "Cargo Operations Management": {
+      "tr300": "Basic Maritime Cargo Operations Training",
+      "tr301": "Intermediate Maritime Cargo Operations",
+      "tr302": "Advanced Maritime Cargo Operations Training"
+    },
+    "Intermediate Maritime Operations": {
+      "tr304": "Intermediate Maritime Communication Systems Training",
+      "tr325": "Intermediate Ship Operations Training",
+      "tr326": "Advanced Ship Operations Training"
+    },
+    "Maritime Crisis Response": {
+      "tr306": "Basic Crisis Response Training for Maritime Workers",
+      "tr307": "Intermediate Crisis Response Training for Maritime Professionals",
+      "tr308": "Advanced Crisis Response Training for Maritime Professionals"
+    },
+    "Ship Engine Systems Operation And Maintenance": {
+      "tr309": "Basic Engine Room Operations Training",
+      "tr310": "Master Intermediate Engine Room Operations",
+      "tr311": "Advanced Engine Room Operations Training"
+    },
+    "Maritime Emergency Medical Care": {
+      "tr312": "Basic Maritime Emergency Response Training",
+      "tr313": "Intermediate Maritime Emergency Response Training",
+      "tr314": "Advanced Maritime Emergency Response Training"
+    },
+    "Maritime Regulatory Compliance": {
+      "tr315": "Master the Basics of Maritime Safety and Environmental Protection",
+      "tr316": "Intermediate International Maritime Safety and Pollution Prevention Training",
+      "tr317": "Advanced International Maritime Safety and Environmental Protection Standards"
+    },
+    "Marine Navigation And Seamanship": {
+      "tr318": "Marine Navigation and Ship Handling",
+      "tr319": "Intermediate Maritime Navigation and Seamanship Training",
+      "tr320": "Advanced Maritime Navigation and Seamanship Training"
+    },
+    "Water Safety And Emergency Response": {
+      "tr321": "Maritime and River Safety Training",
+      "tr322": "Intermediate Maritime and River Safety Training",
+      "tr323": "Advanced Maritime and River Safety Training"
+    },
+    "Vessel Operations And Navigation Safety": {
+      "tr327": "Basic Ship Watch Duties Training",
+      "tr328": "Intermediate Navigation Watch Training",
+      "tr329": "Advanced Bridge Watch Management"
+    }
+  },
+  "Visual And Artistic Skills": {
+    "Blueprint And Technical Diagram Interpretation": {
+      "tr331": "Technical Drawing Interpretation"
+    },
+    "Artistic Movements Analysis": {
+      "tr450": "Art History Appreciation - Basic Course",
+      "tr451": "Intermediate Art History Appreciation Course",
+      "tr452": "Advanced Art History Appreciation Course"
+    },
+    "Visual Communication": {
+      "tr453": "Creative Visual Communication - Basic Level",
+      "tr454": "Develop Your Creative Voice Through Visual Arts",
+      "tr455": "Master Advanced Creative Expression in Visual Arts"
+    },
+    "Painting Techniques": {
+      "tr456": "Basic Creative Canvas Techniques",
+      "tr457": "Intermediate Creative Canvas Techniques",
+      "tr458": "Advanced Canvas Art Mastery"
+    },
+    "Color Harmony And Palette Creation": {
+      "tr459": "Master the Art of Matching Colors - Beginner Course",
+      "tr460": "Intermediate Visual Color Harmony Training",
+      "tr461": "Advanced Visual Harmony and Color Theory"
+    },
+    "Visual Arrangement": {
+      "tr462": "Basic Visual Design Fundamentals",
+      "tr464": "Advanced Visual Layout and Design Principles"
+    },
+    "Visual Storytelling": {
+      "tr463": "Intermediate Visual Arrangement Training",
+      "tr474": "Build Your Creative Work Collection - Beginner Course"
+    },
+    "Digital Art Creation": {
+      "tr465": "Digital Art Software Fundamentals",
+      "tr466": "Intermediate Digital Art Software Training",
+      "tr467": "Advanced Digital Art Software Training"
+    },
+    "Artistic Drawing Techniques": {
+      "tr468": "Basic Drawing and Sketching Course",
+      "tr470": "Advanced Drawing and Sketching Training"
+    },
+    "Artistic Illustration Techniques": {
+      "tr469": "Intermediate Artistic Illustration and Visual Representation"
+    },
+    "Artistic Materials Expertise": {
+      "tr471": "Understanding Art Materials and Their Properties - Basic Level",
+      "tr472": "Intermediate Art Materials Training",
+      "tr473": "Advanced Techniques and Media Mastery"
+    },
+    "Creative Portfolio Presentation": {
+      "tr475": "Intermediate Creative Portfolio Building",
+      "tr476": "Advanced Creative Project Showcase Development"
+    },
+    "Three-Dimensional Art Creation": {
+      "tr477": "Basic 3D Modeling and Sculpture Techniques",
+      "tr478": "Intermediate Three-Dimensional Art Creation",
+      "tr479": "Advanced Three-Dimensional Art Creation"
+    }
+  },
+  "Information Management And Digital Security": {
+    "Information Management And Organization": {
+      "tr39": "Master Document Management Fundamentals",
+      "tr78": "Master the Art of Structuring and Managing Information",
+      "tr79": "Intermediate Data and Document Structuring Course"
+    },
+    "User Permission Management": {
+      "tr60": "Master User Permission Management - Beginner Course",
+      "tr61": "Intermediate User Permission Management Training",
+      "tr62": "Advanced Security and Permission Management"
+    },
+    "Data Protection And Compliance": {
+      "tr63": "Master Data Protection and Privacy Laws",
+      "tr64": "Intermediate-Level Data Protection and Regulatory Compliance Training",
+      "tr65": "Advanced Data Protection and Privacy Regulations Training"
+    },
+    "Digital Platform Management": {
+      "tr66": "Basic Content Management Systems Training",
+      "tr67": "Intermediate-Level Website Management Platform Training",
+      "tr68": "Advanced Website Content Management Training"
+    },
+    "Data Security And Information Management": {
+      "tr69": "Proteção de Dados - Curso Básico",
+      "tr70": "Intermediate Information Protection Training",
+      "tr86": "Advanced Data Cataloging and Information Architecture"
+    },
+    "Digital Collections Preservation": {
+      "tr72": "Basic Digital Archiving Training",
+      "tr73": "Intermediate Digital Archive Management Training",
+      "tr74": "Advanced Digital Preservation and Management"
+    },
+    "Advanced Version Control And Document Management": {
+      "tr75": "Managing Document Versions",
+      "tr76": "Intermediate File Version Control Training",
+      "tr77": "Advanced Document Version Control Training"
+    },
+    "Information Structuring And Categorization": {
+      "tr80": "Advanced Data Structuring and Content Management",
+      "tr84": "Basic Training in Creating Document Metadata",
+      "tr85": "Intermediate Document Cataloging"
+    },
+    "Information Retrieval And Database Management": {
+      "tr81": "Master the Art of Finding and Organizing Information",
+      "tr82": "Intermediate Search and Data Discovery Training",
+      "tr83": "Advanced Information Retrieval"
+    },
+    "Document Retention Management": {
+      "tr87": "Document Retention Policy Training - Fundamentals",
+      "tr88": "Intermediate-Level Document Retention Policy Training",
+      "tr89": "Advanced Document Retention Strategy Training"
+    }
+  },
+  "Live Event Technical Management": {
+    "Sound System Configuration And Operation": {
+      "tr390": "Sound System Configuration Training - Basic Level",
+      "tr391": "Sound System Configuration for Live Events",
+      "tr392": "Advanced Audio Equipment Setup"
+    },
+    "Electrical Systems Management In Live Entertainment": {
+      "tr393": "Electrical Fundamentals for Show Production",
+      "tr394": "Intermediate Electrical Systems Training"
+    },
+    "Live Production Coordination": {
+      "tr399": "Master Team and Performer Interactions for Show Technicians",
+      "tr400": "Intermediate Team and Performer Communication Training",
+      "tr401": "Advanced Team and Performer Interaction Skills for Show Technicians"
+    },
+    "Live Entertainment Technical Troubleshooting": {
+      "tr403": "Intermediate Problem Diagnosis Training",
+      "tr404": "Advanced Problem Diagnosis for Show Technicians"
+    },
+    "Stage Lighting Installation And Management": {
+      "tr405": "Basic Stage Lighting Setup Course",
+      "tr406": "Intermediate Stage Lighting Setup and Equipment Management",
+      "tr407": "Advanced Stage Illumination Setup"
+    },
+    "Live Event Coordination": {
+      "tr408": "Basic Live Show Operations Training",
+      "tr409": "Intermediate Live Performance Management",
+      "tr410": "Advanced Live Event Production Management"
+    },
+    "Live Event Safety Management": {
+      "tr411": "Basic Event Safety Training",
+      "tr412": "Intermediate Event Safety Training for Show Technicians",
+      "tr413": "Advanced Live Event Safety Management"
+    },
+    "Theatrical Rigging And Stage Equipment Operation": {
+      "tr414": "Basic Stage Mechanics Training",
+      "tr415": "Intermediate Stage Mechanics",
+      "tr416": "Advanced Theatrical Rigging and Equipment Systems"
+    },
+    "Audiovisual Equipment Operation And Projection Techniques": {
+      "tr417": "Basic Visual Projection Training",
+      "tr418": "Intermediate Projection Systems Training",
+      "tr419": "Advanced Visual Display Technology Training"
+    }
+  }
+}

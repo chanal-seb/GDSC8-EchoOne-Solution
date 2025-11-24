@@ -1,0 +1,277 @@
+{
+  "Financial Operations And Regulatory Compliance": {
+    "description": "Covers accounting, banking, and insurance sectors focusing on compliance, risk management, and financial operations.",
+    "job_ids": [
+      "j0",
+      "j1",
+      "j10",
+      "j12",
+      "j13",
+      "j14",
+      "j15",
+      "j16",
+      "j19",
+      "j2",
+      "j3",
+      "j4",
+      "j5",
+      "j6",
+      "j7",
+      "j8",
+      "j9"
+    ]
+  },
+  "Legal Support And Compliance Analysis": {
+    "description": "Focuses on legal research, compliance, and document drafting in sectors like law and corporate governance.",
+    "job_ids": [
+      "j100",
+      "j101",
+      "j102",
+      "j103",
+      "j104",
+      "j105",
+      "j106",
+      "j107",
+      "j108",
+      "j109"
+    ]
+  },
+  "Insurance Operations And Compliance Management": {
+    "description": "Focuses on regulatory adherence, risk assessment, and operational management within the Insurance and Banking sectors.",
+    "job_ids": [
+      "j11",
+      "j17",
+      "j18",
+      "j90",
+      "j91",
+      "j92",
+      "j93",
+      "j94",
+      "j95",
+      "j96",
+      "j97",
+      "j98",
+      "j99"
+    ]
+  },
+  "Maritime And Fleet Logistics Operations": {
+    "description": "Covers port management, vessel coordination, logistics, and fleet maintenance in maritime and transportation sectors.",
+    "job_ids": [
+      "j110",
+      "j111",
+      "j112",
+      "j113",
+      "j114",
+      "j115",
+      "j116",
+      "j117",
+      "j118",
+      "j119",
+      "j120",
+      "j121",
+      "j122",
+      "j123",
+      "j124",
+      "j125",
+      "j126",
+      "j127",
+      "j128",
+      "j129",
+      "j180",
+      "j184",
+      "j187"
+    ]
+  },
+  "Industrial Production And Live Performance Technical Operations": {
+    "description": "Covers technical roles in industrial manufacturing and live performance sectors, including equipment maintenance, production optimization, and stagecraft management.",
+    "job_ids": [
+      "j130",
+      "j131",
+      "j132",
+      "j133",
+      "j134",
+      "j135",
+      "j136",
+      "j137",
+      "j138",
+      "j150",
+      "j151",
+      "j153",
+      "j154",
+      "j155",
+      "j156",
+      "j157",
+      "j158",
+      "j159",
+      "j182",
+      "j183",
+      "j185",
+      "j186"
+    ]
+  },
+  "Industrial Health, Safety, and Environmental Compliance": {
+    "description": "Ensures workplace safety and regulatory compliance in industrial and production sectors.",
+    "job_ids": [
+      "j139",
+      "j80",
+      "j81",
+      "j82",
+      "j83",
+      "j84",
+      "j85",
+      "j86",
+      "j87",
+      "j88",
+      "j89"
+    ]
+  },
+  "Procurement And Supply Chain Optimization": {
+    "description": "Focuses on managing vendor relationships, optimizing procurement processes, and mitigating supply chain risks primarily in the retail, manufacturing, and logistics sectors.",
+    "job_ids": [
+      "j140",
+      "j141",
+      "j142",
+      "j143",
+      "j144",
+      "j145",
+      "j146",
+      "j147",
+      "j148",
+      "j149"
+    ]
+  },
+  "Electrical And Electronics Systems Engineering And Maintenance": {
+    "description": "Focuses on electrical and electronics systems across automotive, live events, and power sectors.",
+    "job_ids": [
+      "j152",
+      "j181",
+      "j188",
+      "j189",
+      "j40",
+      "j41",
+      "j42",
+      "j43",
+      "j44",
+      "j45",
+      "j46",
+      "j47",
+      "j48",
+      "j49"
+    ]
+  },
+  "Community Engagement And Cultural Development": {
+    "description": "Focuses on social, educational, and cultural initiatives within community development sectors.",
+    "job_ids": [
+      "j160",
+      "j161",
+      "j162",
+      "j163",
+      "j164",
+      "j165",
+      "j166",
+      "j167",
+      "j168",
+      "j169"
+    ]
+  },
+  "Tourism And Hospitality Guest Services": {
+    "description": "Focuses on guest experience and operational roles within the Tourism and Hospitality sectors.",
+    "job_ids": [
+      "j170",
+      "j171",
+      "j172",
+      "j173",
+      "j174",
+      "j175",
+      "j176",
+      "j177",
+      "j178",
+      "j179",
+      "j70",
+      "j71",
+      "j72",
+      "j73",
+      "j74",
+      "j75",
+      "j76",
+      "j77",
+      "j78",
+      "j79"
+    ]
+  },
+  "Visual Arts And Studio Production": {
+    "description": "This domain covers roles in visual arts creation, management, and coordination within the studio production sector.",
+    "job_ids": [
+      "j190",
+      "j191",
+      "j192",
+      "j193",
+      "j194",
+      "j195",
+      "j196",
+      "j197",
+      "j198",
+      "j199"
+    ]
+  },
+  "Cultural Information And Records Management": {
+    "description": "Managing and preserving cultural and organizational records in archives, libraries, and documentation systems.",
+    "job_ids": [
+      "j20",
+      "j21",
+      "j22",
+      "j23",
+      "j24",
+      "j25",
+      "j26",
+      "j27",
+      "j28",
+      "j29"
+    ]
+  },
+  "Design Research And Innovation Management": {
+    "description": "Focuses on user research and innovation management primarily in product development and design sectors.",
+    "job_ids": [
+      "j30",
+      "j31",
+      "j32",
+      "j33",
+      "j34",
+      "j35",
+      "j36",
+      "j37",
+      "j38",
+      "j39"
+    ]
+  },
+  "Fiber And Paper Manufacturing Operations": {
+    "description": "This domain focuses on roles within the fiber and paper manufacturing and processing sectors.",
+    "job_ids": [
+      "j50",
+      "j51",
+      "j52",
+      "j53",
+      "j54",
+      "j55",
+      "j56",
+      "j57",
+      "j58",
+      "j59"
+    ]
+  },
+  "Food Production And Quality Management": {
+    "description": "This domain covers roles in the Food Industry focusing on production, quality, safety, and innovation.",
+    "job_ids": [
+      "j60",
+      "j61",
+      "j62",
+      "j63",
+      "j64",
+      "j65",
+      "j66",
+      "j67",
+      "j68",
+      "j69"
+    ]
+  }
+}

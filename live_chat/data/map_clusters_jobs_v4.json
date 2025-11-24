@@ -1,0 +1,277 @@
+{
+  "Financial Operations And Compliance Management": {
+    "description": "Managing financial activities, ensuring regulatory compliance, and supporting risk management in finance.",
+    "job_ids": {
+      "j0": "Accounting Intern – Bookkeeping & Admin",
+      "j1": "Accounting Trainee – Risk & Data Focus",
+      "j10": "Banking Operations Analyst",
+      "j12": "Administrative Assistant",
+      "j13": "Banking Administration Intern",
+      "j14": "Banking Administration Coordinator",
+      "j15": "Financial Administration Consultant",
+      "j16": "Banking Operations Supervisor",
+      "j19": "Specialist – Banking Compliance & Policy",
+      "j2": "Junior Accounting Analyst",
+      "j3": "Financial Reporting Analyst",
+      "j4": "Senior Accountant – Auditing & Controls",
+      "j5": "Accounting Coordinator – Compliance & Risk",
+      "j6": "Accounting Assistant – Compliance & Reporting",
+      "j7": "Accounting Consultant – Strategic Advisory",
+      "j8": "Accounting Supervisor – Financial Operations",
+      "j9": "Accounting Manager – Risk & Reporting"
+    }
+  },
+  "Legal Research And Procedural Support": {
+    "description": "Conducting legal research, drafting documents, and supporting procedural compliance and case management.",
+    "job_ids": {
+      "j100": "Legal Intern – Negotiation & Research",
+      "j101": "Legal Assistant – Statutory Interpretation",
+      "j102": "Junior Legal Specialist – Statutory Review",
+      "j103": "Legal Writing Assistant – Case Support",
+      "j104": "Contracts & Research Intern",
+      "j105": "Litigation Procedures Analyst",
+      "j106": "Junior Legal Analyst – Ethics & Drafting",
+      "j107": "Legal Analyst – Client Counseling & Negotiation",
+      "j108": "Contract Review Assistant",
+      "j109": "Legal Specialist – Case Analysis & Statutes"
+    }
+  },
+  "Insurance Operations And Compliance Management": {
+    "description": "Managing insurance processes, ensuring compliance, assessing risks, and handling client services.",
+    "job_ids": {
+      "j11": "Insurance Compliance Specialist",
+      "j17": "Insurance Administration Manager",
+      "j18": "Claims Management Analyst",
+      "j90": "Insurance Intern – Claims & Policies",
+      "j91": "Insurance Assistant – Client Services",
+      "j92": "Insurance Risk Analyst",
+      "j93": "Claims & Underwriting Specialist",
+      "j94": "Insurance Operations Trainee",
+      "j95": "Coordinator – Insurance Compliance",
+      "j96": "Insurance Consultant – Risk & Strategy",
+      "j97": "Insurance Services Manager",
+      "j98": "Policy & Compliance Analyst",
+      "j99": "Insurance Fraud Investigation Specialist"
+    }
+  },
+  "Maritime And Port Operations Management": {
+    "description": "Managing and coordinating vessel, terminal, and cargo operations in maritime and port environments.",
+    "job_ids": {
+      "j110": "Port Operations Coordinator",
+      "j111": "Customs & Vessel Communications Specialist",
+      "j112": "Ground Operations Specialist – Port Scheduling",
+      "j113": "Port Logistics Specialist – Yard & Gate",
+      "j114": "Terminal Operations Supervisor",
+      "j115": "Ground Logistics Analyst – Cargo Flow",
+      "j116": "Maritime Ground Operations Consultant",
+      "j117": "Dock Operations Intern – Equipment & Safety",
+      "j118": "Port Planning & Dispatch Analyst",
+      "j119": "Terminal Coordination Specialist",
+      "j120": "Deck Operations Intern – Navigation & Safety",
+      "j121": "Marine Assistant – Onboard Logistics",
+      "j122": "Junior Marine Engineer – Engine Room Support",
+      "j123": "Specialist – Vessel Communication & Navigation Systems",
+      "j124": "Onboard Safety Supervisor – Crew & Passengers",
+      "j125": "Analyst – Maritime Operations & Maintenance",
+      "j126": "Maritime Consultant – Shipboard Efficiency & Risk",
+      "j127": "Ship Services Manager – Crew & Passenger Operations",
+      "j128": "Marine Systems Analyst – Performance & Compliance",
+      "j129": "Specialist – Marine Environmental Protection",
+      "j180": "Fleet Diagnostics Analyst",
+      "j184": "Fleet Coordination Trainee",
+      "j187": "Maintenance Trainee – Fleet Operations"
+    }
+  },
+  "Industrial Production And Live Event Technical Operations": {
+    "description": "Encompasses equipment design, maintenance, and coordination in industrial and live event settings.",
+    "job_ids": {
+      "j130": "Production Designer – Equipment & Calibration",
+      "j131": "Production Trainee – Electrical & Schematics",
+      "j132": "Industrial Equipment Specialist – Schematics",
+      "j133": "Reliability Specialist – Heavy Equipment",
+      "j134": "Production Trainee – Line Operations",
+      "j135": "Manufacturing Coordinator – Tools & Setup",
+      "j136": "Manufacturing Process Consultant",
+      "j137": "Production Manager – Diagnostics & Hydraulics",
+      "j138": "Maintenance & Hydraulics Analyst",
+      "j150": "Stage & Crew Coordinator – Live Shows",
+      "j151": "Stagehand Intern",
+      "j153": "Lighting & Rigging Assistant",
+      "j154": "Audio & Stage Supervisor – Live Events",
+      "j155": "AV & Lighting Analyst – Show Support",
+      "j156": "Stage Mechanics & Audio Technician",
+      "j157": "Technical Coordinator – Lighting & Video",
+      "j158": "Lighting Rigging Coordinator",
+      "j159": "Stagecraft Specialist – Rigging & Fault Finding",
+      "j182": "Workshop Assistant – Components & Documentation",
+      "j183": "Heavy Machinery Specialist – Powertrain",
+      "j185": "Technical Specialist – Workshop Operations",
+      "j186": "Mechanical Intern – Workshop Support"
+    }
+  },
+  "Health Safety And Environmental Compliance": {
+    "description": "Ensuring workplace safety, regulatory compliance, and environmental health in industrial settings.",
+    "job_ids": {
+      "j139": "Safety Compliance Assistant – Production",
+      "j80": "HSE Specialist – Industrial Safety",
+      "j81": "HSE Intern – Safety Procedures",
+      "j82": "HSE Analyst – Compliance & Audits",
+      "j83": "HSE Assistant – Site Inspections",
+      "j84": "Occupational Safety Trainee",
+      "j85": "Environmental Health Analyst",
+      "j86": "HSE Analyst – Risk Assessment",
+      "j87": "Industrial Hygiene Analyst",
+      "j88": "HSE Coordination Trainee",
+      "j89": "Hazardous Materials Analyst – HSE"
+    }
+  },
+  "Procurement And Supplier Management": {
+    "description": "Managing supplier relationships and optimizing procurement processes for efficiency and cost reduction.",
+    "job_ids": {
+      "j140": "Procurement Specialist – Supplier Relations",
+      "j141": "Purchasing Assistant – Cost Strategies",
+      "j142": "Procurement Analyst – Vendor Selection",
+      "j143": "Junior Supply Chain Risk Specialist",
+      "j144": "Procurement Supervisor – Vendor Management",
+      "j145": "Junior Coordinator – Purchasing & Logistics",
+      "j146": "Consultant – Procurement & ERP Systems",
+      "j147": "Purchasing Trainee – Supplier Strategy",
+      "j148": "Spend Data Analyst – Procurement",
+      "j149": "Specialist – Cost Reduction & ERP Tools"
+    }
+  },
+  "Electrical And Electronics Systems Engineering": {
+    "description": "Focuses on electrical and electronic systems design, maintenance, analysis, and project coordination.",
+    "job_ids": {
+      "j152": "Lighting Tech Specialist – Basic Electrics",
+      "j181": "Vehicle Systems Analyst – Maintenance",
+      "j188": "Diagnostics Analyst – Automotive",
+      "j189": "Service Assistant – Vehicle Workshop",
+      "j40": "Electronics Designer Intern",
+      "j41": "Electrical Assistant Technician",
+      "j42": "Electronics Analyst – Testing & Debugging",
+      "j43": "Power Systems Specialist",
+      "j44": "Software-Focused Electrical Intern",
+      "j45": "Junior Electronics Project Coordinator",
+      "j46": "Consultant – Electrical Systems Design",
+      "j47": "Electronics Engineering Specialist",
+      "j48": "Circuit Design Analyst",
+      "j49": "Embedded Systems Specialist"
+    }
+  },
+  "Community Engagement And Cultural Development": {
+    "description": "Focuses on creating and managing social, educational, and cultural community programs.",
+    "job_ids": {
+      "j160": "Community Action Consultant",
+      "j161": "Social Program Assistant",
+      "j162": "Community Development Analyst",
+      "j163": "Specialist – Group Facilitation & Cultural Events",
+      "j164": "Trainee – Social Initiatives",
+      "j165": "Coordinator – Educational & Cultural Programs",
+      "j166": "Consultant – Community Engagement Strategy",
+      "j167": "Manager – Cultural & Educational Projects",
+      "j168": "Event Planning & Social Impact Analyst",
+      "j169": "Specialist – Cultural Sensitivity & Mediation"
+    }
+  },
+  "Tourism And Hospitality Guest Services": {
+    "description": "Focuses on enhancing guest experiences and managing tourism-related services and operations.",
+    "job_ids": {
+      "j170": "Tourism Consultant – Events & Guest Services",
+      "j171": "Reception & Customer Service Assistant – Tourism",
+      "j172": "Tourism Specialist – Culture & Problem Solving",
+      "j173": "Destination Promotion Assistant – Digital Presence",
+      "j174": "Guest Experience Analyst – Front Desk & Tours",
+      "j175": "Tourism Programs Coordinator – Partnerships",
+      "j176": "Tourism Consultant – Market Development",
+      "j177": "Tourism Operations Manager – Reservations & Partners",
+      "j178": "Tourism Marketing & Reservations Analyst",
+      "j179": "Customer Care Coordinator – Tourism",
+      "j70": "Hotel Receptionist",
+      "j71": "Reception Assistant – Hospitality Services",
+      "j72": "Guest Services Analyst",
+      "j73": "Hospitality Phone Consultant",
+      "j74": "Junior Reception Supervisor – Guest Services",
+      "j75": "Coordinator – Reception & Guest Experience",
+      "j76": "Hospitality Consultant – Guest Relations",
+      "j77": "Hotel Reception Manager",
+      "j78": "Hospitality Operations Analyst",
+      "j79": "Specialist – Hotel Customer Experience"
+    }
+  },
+  "Visual Arts And Studio Production": {
+    "description": "Creating, managing, and coordinating visual arts and studio production activities.",
+    "job_ids": {
+      "j190": "Visual Arts Specialist – Painting & Color",
+      "j191": "Visual Arts Intern – Art History & Color",
+      "j192": "Visual Arts Assistant – Portfolio & Drawing",
+      "j193": "Digital Illustration Specialist",
+      "j194": "Studio Supervisor – Visual Production",
+      "j195": "Arts Project Coordinator",
+      "j196": "Studio Assistant – Sculpture & Painting",
+      "j197": "Studio Intern – Materials & Sketching",
+      "j198": "Visual Arts Specialist – Sculpture & Color",
+      "j199": "Studio Coordination Trainee"
+    }
+  },
+  "Cultural Information And Records Management": {
+    "description": "Managing and preserving cultural records, ensuring accessibility, compliance, and documentation standards.",
+    "job_ids": {
+      "j20": "Document Management Intern – Cultural Archives",
+      "j21": "Library & Records Assistant",
+      "j22": "Archival Analyst – Cultural Collections",
+      "j23": "Cultural Heritage Documentation Specialist",
+      "j24": "Archives & Records Supervisor",
+      "j25": "Coordinator – Cultural Information Services",
+      "j26": "Consultant – Documentation Strategy",
+      "j27": "Records & Culture Documentation Manager",
+      "j28": "Records Information Analyst",
+      "j29": "Specialist – Information Retrieval Systems"
+    }
+  },
+  "Design Research And Innovation Management": {
+    "description": "Focuses on user research, product development, and managing innovation projects in design.",
+    "job_ids": {
+      "j30": "Design Research Intern",
+      "j31": "Assistant – Design Research Projects",
+      "j32": "Design Research Analyst",
+      "j33": "Product Development Specialist",
+      "j34": "Design Analyst – Technical Writing & Methods",
+      "j35": "Coordinator – Research & Innovation Projects",
+      "j36": "Design Innovation Consultant",
+      "j37": "Specialist – Innovation Management & Troubleshooting",
+      "j38": "Research & Development Supervisor",
+      "j39": "R&D Design Manager"
+    }
+  },
+  "Fiber And Paper Manufacturing Operations": {
+    "description": "Covers production, quality control, and sustainable practices in fiber and paper industries.",
+    "job_ids": {
+      "j50": "Paper Production Intern",
+      "j51": "Assistant – Fiber Design",
+      "j52": "Fiber Optic Intern",
+      "j53": "Specialist – Fiber Quality Control",
+      "j54": "Junior Paper Manufacturing Specialist",
+      "j55": "Coordinator – Fiber Processing Operations",
+      "j56": "Consultant – Sustainable Paper Production",
+      "j57": "Paper Industry Operations Consultant",
+      "j58": "Fiber Material Analyst",
+      "j59": "Junior Specialist – Paper Technology"
+    }
+  },
+  "Food Production Quality And Safety Management": {
+    "description": "Ensuring quality and safety standards in food production and development processes.",
+    "job_ids": {
+      "j60": "Food Industry Intern – Quality & Safety",
+      "j61": "Food Production Assistant",
+      "j62": "Food Safety Analyst",
+      "j63": "Specialist – Food Process Development",
+      "j64": "Food Production Supervisor",
+      "j65": "Junior Food Manufacturing Coordinator",
+      "j66": "Consultant – Food Quality Systems",
+      "j67": "Food Industry Operations Manager",
+      "j68": "Nutrition & Food Technology Analyst",
+      "j69": "Specialist – Food Innovation"
+    }
+  }
+}
